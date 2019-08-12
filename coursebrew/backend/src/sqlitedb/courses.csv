@@ -1,0 +1,54 @@
+course_id,created,name,owner,freq_spr,freq_sum1,freq_sum2,freq_fal,freq_spr_l,freq_sum1_l,freq_sum2_l,freq_fal_l,year,token
+EE2400,,Circuits I,pqt3,2,1,1,2,2,1,1,2,2019,test
+EE2420,,Digital Logic,pqt3,2,1,1,2,2,1,1,2,2019,test
+EE3340,,Electromagnetics,pqt3,1,1,1,1,1,1,1,1,2019,test
+EE3350,,Electronics I,pqt3,2,2,2,2,2,2,2,2,2019,test
+EE3355,,Solid State Devices,pqt3,1,0,0,1,1,0,0,1,2019,test
+EE3370,,Signals & Systems,pqt3,1,2,2,1,1,2,2,1,2019,test
+EE3400,,Circuits II,pqt3,1,1,1,1,1,1,1,1,2019,test
+EE3420,,Microprocessors,pqt3,2,1,1,2,2,1,1,2,2019,test
+EE4321,,Dig Sys Des U HDL,pqt3,2,0,0,2,2,0,0,2,2019,test
+EE4323,,Digital Img Processing,pqt3,1,0,0,0,1,0,0,0,2019,test
+EE4350,,Electronics II,pqt3,1,1,1,1,1,1,1,1,2019,test
+EE4351,,Fund of Electroceramics,pqt3,0,0,0,0,0,0,0,0,2019,test
+EE4352,,Intro to VLSI Des,pqt3,2,0,0,2,2,0,0,2,2019,test
+EE4353,,Fund of Adv CMOS Tech,pqt3,0,0,0,0,0,0,0,0,2019,test
+EE4354,,Flexible Electronics,pqt3,0,0,0,0,0,0,0,0,2019,test
+EE4355,,Analog & Mixed Sig Design,pqt3,0,0,0,1,0,0,0,1,2019,test
+EE4356,,Power Electronics,pqt3,0,0,0,0,0,0,0,0,2019,test
+EE4358,,Microelecmechnl Sys,pqt3,0,0,0,0,0,0,0,0,2019,test
+EE4360,,Linear Control Systems,pqt3,1,0,0,0,1,0,0,0,2019,test
+EE4370,,Communication Sys,pqt3,1,0,0,1,1,0,0,1,2019,test
+EE4372,,Comm Networks,pqt3,1,0,0,1,1,0,0,1,2019,test
+EE4374,,Wireless Communications,pqt3,1,0,0,1,1,0,0,1,2019,test
+EE4375,,Building Smart Grid Arch,pqt3,1,0,0,0,1,0,0,0,2019,test
+EE4376,,Intro to Telecommunications,pqt3,0,0,0,0,0,0,0,0,2019,test
+EE4377,,Intro to DSP,pqt3,1,0,0,0,1,0,0,0,2019,test
+EE4378,,Dat Comp & Err Cod,pqt3,1,0,0,0,1,0,0,0,2019,test
+EE4390,,EE Design I,pqt3,2,0,0,2,2,0,0,2,2019,test
+EE4391,,EE Design II,pqt3,2,0,0,2,2,0,0,2,2019,test
+EE4399,,Spec Topics in EE,pqt3,0,0,0,0,0,0,0,0,2019,test
+EE4399A,,Dyn. Data Acquisition & Analysis,pqt3,0,0,0,0,0,0,0,0,2019,test
+EE4399B,,Overview of Info Theory & Coding,pqt3,0,0,0,0,0,0,0,0,2019,test
+EE5320,,Adv Comp Arch & Arith,pqt3,1,0,0,0,1,0,0,0,2019,test
+EE5321,,Comp-Aided Eng Sim on HPC Sys,pqt3,1,0,0,0,1,0,0,0,2019,test
+EE5323,,Digital Img Processing,pqt3,1,0,0,0,1,0,0,0,2019,test
+EE5330,,Emb & Real-Time Comp,pqt3,0,0,0,0,0,0,0,0,2019,test
+EE5350,,Adv Elec Cir Des,pqt3,0,0,0,1,0,0,0,1,2019,test
+EE5353,,Fund Adv CMOS Tech,pqt3,0,0,0,0,0,0,0,0,2019,test
+EE5354,,Flexible Electronics,pqt3,0,0,0,0,0,0,0,0,2019,test
+EE5355,,Elect Mat & Devices,pqt3,0,0,0,0,0,0,0,0,2019,test
+EE5360,,Thin Film Tech,pqt3,0,0,0,0,0,0,0,0,2019,test
+EE5372,,Comm Networks,pqt3,1,0,0,0,1,0,0,0,2019,test
+EE5374,,Wireless Communications,pqt3,0,0,0,1,0,0,0,1,2019,test
+EE5375,,Smart Grid: App Dev Platform,pqt3,0,0,0,1,0,0,0,1,2019,test
+EE5377,,Statistical Signal Processing,pqt3,0,0,0,0,0,0,0,0,2019,test
+EE5385,,Optoelectronic Devices,pqt3,0,0,0,0,0,0,0,0,2019,test
+EE5398A,,Antenna Theory Des App,pqt3,0,0,0,0,0,0,0,0,2019,test
+EE5398B,,Elec Mat and Beyond for Sus Energy,pqt3,0,0,0,0,0,0,0,0,2019,test
+EE5398C,,Multimedia Sig Proc,pqt3,0,0,0,0,0,0,0,0,2019,test
+EE5398D,,Electroceramics,pqt3,0,0,0,0,0,0,0,0,2019,test
+ENGR3373,,Cir and Dev,pqt3,2,0,0,2,2,0,0,2,2019,test
+MFGE4392,,Microelec MFGE I,pqt3,1,0,0,1,1,0,0,1,2019,test
+MFGE4394,,Microelec MFGE II,pqt3,1,0,0,1,1,0,0,1,2019,test
+IE3320,,Engr Statistics,pqt3,4,1,1,4,4,1,1,4,2019,test

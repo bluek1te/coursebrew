@@ -1,0 +1,132 @@
+.textbox-color{
+    background-color: #a8d0db;
+    font-family: 'Work Sans', sans-serif;
+    color: #ffffff;
+}
+
+.textbox-color:focus{
+    box-shadow: none;
+    border-color: #7180ac;
+    border-width: 2px;
+}
+
+.add-btn{
+    background-color: #e49273;
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.add-btn:focus{
+    box-shadow: none;
+    border-color: #7180ac;
+    border-width: 2px;
+}
+
+.prefix-btn{
+    background-color: #e49273;
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.label{
+    color: #2b4570;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.label-2{
+    color: #e49273;
+    font-family: 'Work Sans', sans-serif;
+}
+
+label {
+    display: inline-block;
+}
+
+.container{
+    margin-top: 100px;
+}
+
+.input-group{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.custom-select{
+    background-color: #e49273;
+    font-family: 'Work Sans', sans-serif;
+    color: #ffffff;
+    background-image: url('/src/assets/img/drop-down-arrow.svg');
+}
+
+.custom-select:focus{
+    box-shadow: none;
+    border-color: #e49273;
+}
+
+#chooseCoordinator{
+    background-color: #a8d0db;
+    font-family: 'Work Sans', sans-serif;
+    color: #ffffff;
+}
+
+#chooseCoordinator:focus{
+    box-shadow: none;
+    border-color: #7180ac;
+    border-width: 2px;
+}
+
+.modal-content{
+    background-color: #ffffff;
+    border-color: #a8d0db;
+    font-family: 'Work Sans', sans-serif;
+    color: #2b4570;
+}
+
+.modal-title{
+    padding-top: 30px;
+    padding-left: 10px;
+}
+
+.modal-title1{
+    padding-bottom: 10px;
+    margin-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: #2b4570;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.center-block{
+    padding: 10px;
+}
+
+.yes-btn{
+    background-color: #e49273;
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+    border-color: #e49273;
+}
+
+.yes-btn:focus{
+    outline-color: #a8d0db;
+}
+
+.no-btn{
+    background-color: #7180ac;
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+    margin-left: 5px;
+    border-color: #7180ac;
+}
+
+.no-btn:focus{
+    outline-color: #a8d0db;
+}
+
+.wrapper{
+    text-align: center;
+}
+
+.img-style{
+    margin-bottom: 5px;
+}

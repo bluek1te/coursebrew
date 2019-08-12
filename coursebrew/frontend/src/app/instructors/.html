@@ -1,0 +1,123 @@
+<div class="container">
+<h5 class="header-style">ADD AN INSTRUCTOR</h5>
+
+<form>
+    <div class="form-group">
+        <label class="label" for="addProfessorName">instructor name</label>
+        <input type="name" class="form-control textbox-color col-5"
+            id="addProfessorName" (keyup)="updateName($event)">
+    </div>
+    
+    <div class="form-group">
+        <label class="label" for="addNetID">net ID</label>
+        <input type="netID" class="form-control textbox-color col-5"
+            id="addNetID" (keyup)="updateNetId($event)">
+    </div>
+    
+    <div class="form-group">
+        <label class="label" for="semestersTeaching">semesters teaching</label>
+        <div class="form-check">
+            <input class="form-check-input checkbox-color" type="checkbox"
+                value="" id="spring">
+            <label class="form-check-label" for="spring">
+                spring
+            </label>
+        </div>
+        <div class="form-check">
+            <input class="form-check-input checkbox-color" type="checkbox"
+                value="" id="summer">
+            <label class="form-check-label" for="summer">
+                summer
+            </label>
+        </div>
+        <div class="form-check">
+            <input class="form-check-input checkbox-color" type="checkbox"
+                value="" id="fall">
+            <label class="form-check-label" for="fall">
+                fall
+            </label>
+        </div>
+    </div>
+    
+    <div class="form-group">
+        <label class="label" for="addTrack">track</label>
+        <div class="input-group">
+            <select class="custom-select col-lg-5 textbox-color"
+                id="addTrack">
+                <option selected>choose track</option>
+                <option>tenured</option>
+                <option>non-tenured</option>
+                <option>adjunct</option>
+            </select>
+        </div>
+    </div>
+    
+    <div class="form-group">
+        <label class="label" for="coursesTeaching"># of courses per semester</label>
+        <div class="form-group row">
+            <label class="label-2 col-lg-1" for="spring">spring</label>
+            <div class="col-lg-1">
+                <input type="springCourses" class="form-control textbox-color">
+            </div>
+        </div>
+        
+        <div class="form-group row">
+            <label class="label-2 col-lg-1" for="summer">summer</label>
+            <div class="col-lg-1">
+                <input type="summerCourses" class="form-control textbox-color">
+            </div>
+        </div>
+        
+        <div class="form-group row">
+            <label class="label-2 col-lg-1" for="fall">fall</label>
+            <div class="col-lg-1">
+                <input type="fallCourses" class="form-control textbox-color">
+            </div>
+        </div>
+    </div>
+    
+    <div class="form-group">
+        <label class="label" for="availableCourses">available courses</label>
+        <datalist id="courses">
+        <div class="input-group col-lg-5 add-form">
+        
+            <select id="Add_Course" class="custom-select textbox-color" list="courses"
+                [ngModel]="course_added" (ngModelChange)="onChange($event)" name="sel2">
+                <option selected>choose course</option>
+                <option value="Circuits I">Circuits I</option>
+                <option value="Circuits II">Circuits II</option>
+                <option value="Electronics I">Electronics I</option>
+                <option value="Electronics II">Electronics II</option>
+                <option value="Signals and Systems">Signals and Systems</option>
+                <option value="Digital Logic">Digital Logic</option>
+            </select>
+        
+            <div class="input-group-append">
+                <button class="btn" type="button" (click)="updateAvailableCourses()">
+                    +
+                </button>
+            </div>
+        </div>
+        </datalist>
+        
+        <div *ngFor="let course of newInstructor.available_courses">
+            <p>{{course}}</p>
+        </div>
+    </div>
+    
+    <button (click)="submitInstructor()" type="add" data-toggle="modal" data-target="#popUp" class="btn col-5 add-button">ADD</button>
+    
+    <div id="popUp" class="modal fade" role="dialog">
+        <div class="modal-dialog modal-dialog-centered modal-sm">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <span><img class="center-block" src="/src/assets/img/course-brew.svg" width="75" height="75"></span>
+                    <h6 class="modal-title">instructor added!</h6>
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+
+</div>

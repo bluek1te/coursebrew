@@ -1,0 +1,121 @@
+<div class="container">
+    <h5 class="label">ADD A COURSE</h5>
+    <form>
+        <div class="form-group">
+            <label class="label" for="addCourseName">course name</label>
+            <input type="name" class="form-control textbox-color col-lg-5"
+                id="addCourseName" (keyup)="updateName($event)">
+                </div>
+        <div class="form-group">
+            <label class="label" for="addCourseID">course ID</label>
+            <div class="input-group mb-3 col-lg-5">
+                <div class="input-group-prepend">
+                    <select class="custom-select" id="prefix">
+                        <option selected>prefix</option>
+                        <option>EE</option>
+                        <option>IE</option>
+                        <option>ENGR</option>
+                        <option>MFGE</option>
+                    </select>
+                </div>
+                <input type="courseID" class="form-control textbox-color"
+                    id="addCourseID" (keyup)="updateCourseId($event)">
+                    </div>
+        </div>
+        <div class="form-group">
+            <label class="label" for="semestersOffered"># of sections per semester</label>
+            <div class="form-row">
+                <div class="form-group col-lg-1">
+                    <label for="spring" class="label-2">fall</label>
+                    <input type="fallSections" class="form-control textbox-color"
+                        (keyup)="updateFreqFal($event)" id="fall">
+                        </div>
+                <div class="form-group col-lg-1" style="margin-left:32px">
+                    <label for="fall" class="label-2">spring</label>
+                    <input type="springSections" class="form-control textbox-color" (keyup)="updateFreqSpr($event)" id="spring">
+                        </div>
+                <div class="form-group col-lg-1" style="margin-left:32px">
+                    <label for="summerI" class="label-2">summer I</label>
+                    <input type="summerISections" class="form-control textbox-color" (keyup)="updateFreqSum1($event)" id="summerI">
+                        </div>
+                <div class="form-group col-lg-1" style="margin-left:32px">
+                    <label for="summerII" class="label-2">summer II</label>
+                    <input type="summerIISections" class="form-control textbox-color" (keyup)="updateFreqSum2($event)" id="summerII">
+                        </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="label" for="semestersOffered"># of lab sections per semester</label>
+            <div class="form-row">
+                <div class="form-group col-lg-1">
+                    <label for="spring" class="label-2">fall</label>
+                    <input type="fallSections" class="form-control textbox-color" (keyup)="updateFreqFal_l($event)" id="fall">
+                        </div>
+                <div class="form-group col-lg-1" style="margin-left:32px">
+                    <label for="fall" class="label-2">spring</label>
+                    <input type="springSections" class="form-control textbox-color" (keyup)="updateFreqSpr_l($event)" id="spring">
+                        </div>
+                <div class="form-group col-lg-1" style="margin-left:32px">
+                    <label for="summerI" class="label-2">summer I</label>
+                    <input type="summerISections" class="form-control textbox-color" (keyup)="updateFreqSum1_l($event)" id="summerI">
+                        </div>
+                <div class="form-group col-lg-1" style="margin-left:32px">
+                    <label for="summerII" class="label-2">summer II</label>
+                    <input type="summerIISections" class="form-control textbox-color" (keyup)="updateFreqSum2_l($event)" id="summerII">
+                        </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <label class="label" for="coordinator">coordinator</label>
+            <div class="input-group cold-lg-5 add-form">
+                <select class="custom-select col-lg-5 textbox-color"
+                    id="chooseCoordinator">
+                    <option selected>choose coordinator</option>
+                    <option>C. Rich Compeau</option>
+                    <option>Phillip Tran</option>
+                    <option>David Johnson</option>
+                </select>
+            </div>
+        </div>
+        <button (click)="submitCourse()" type="add" data-toggle="modal" data-target="#popUp" class="btn add-btn col-5">ADD</button>
+        <div id="popUp" class="modal fade" role="dialog">
+            <div class="modal-dialog modal-dialog-centered">
+                <div class="modal-content">
+                    <div class="wrapper">
+                        <div class="modal-body">
+                            <div class="row">
+                                <div class="col">
+                                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                                </div>
+                            </div>
+                            <div class="row img-style">
+                                <div class="col">
+                                    <span ><img src="/src/assets/img/course-brew.svg" width="50" height="50"></span>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col">
+                                    <h6 class="modal-title1">are you sure you want to add this course? </h6>
+                                </div>
+                            </div>
+                            <button data-toggle="modal" data-target="#added" class="yes-btn col-lg-2 rounded" data-dismiss="modal">yes</button>
+                            <button class="no-btn col-lg-2 rounded" data-dismiss="modal">no</button>
+                            <div style="min-height:30px;"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="added" class="modal fade" role="dialog">
+            <div class="modal-dialog modal-dialog-centered modal-sm">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <span><img class="center-block" src="/src/assets/img/course-brew.svg" width="75" height="75"></span>
+                        <h6 class="modal-title">course added!</h6>
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+</div>

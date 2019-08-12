@@ -1,0 +1,54 @@
+course_id,created,name,owner,freq_spr,freq_sum,freq_fal
+EE2400,,Circuits I,EE,2,1,2
+EE2420,,Digital Logic,EE,2,1,2
+EE3340,,Electromagnetics,EE,1,1,1
+EE3350,,Electronics I,EE,2,2,2
+EE3355,,Solid State Devices,EE,1,0,1
+EE3370,,Signals & Systems,EE,1,2,1
+EE3400,,Circuits II,EE,1,1,1
+EE3420,,Microprocessors,EE,2,1,2
+EE4321,,Dig Sys Des U HDL,EE,2,0,2
+EE4323,,Digital Img Processing,EE,1,0,0
+EE4350,,Electronics II,EE,1,1,1
+EE4351,,Fund of Electroceramics,EE,0,0,0
+EE4352,,Intro to VLSI Des,EE,2,0,2
+EE4353,,Fund of Adv CMOS Tech,EE,0,0,0
+EE4354,,Flexible Electronics,EE,0,0,0
+EE4355,,Analog & Mixed Sig Design,EE,0,0,1
+EE4356,,Power Electronics,EE,0,0,0
+EE4358,,Microelecmechnl Sys,EE,0,0,0
+EE4360,,Linear Control Systems,EE,1,0,0
+EE4370,,Communication Sys,EE,1,0,1
+EE4372,,Comm Networks,EE,1,0,1
+EE4374,,Wireless Communications,EE,1,0,1
+EE4375,,Building Smart Grid Arch,EE,1,0,0
+EE4376,,Intro to Telecommunications,EE,0,0,0
+EE4377,,Intro to DSP,EE,1,0,0
+EE4378,,Dat Comp & Err Cod,EE,1,0,0
+EE4390,,EE Design I,EE,2,0,2
+EE4391,,EE Design II,EE,2,0,2
+EE4399,,Spec Topics in EE,EE,0,0,0
+EE4399A,,Dyn. Data Acquisition & Analysis,EE,0,0,0
+EE4399B,,Overview of Info Theory & Coding,EE,0,0,0
+EE5320,,Adv Comp Arch & Arith,EE,1,0,0
+EE5321,,Comp-Aided Eng Sim on HPC Sys,EE,1,0,0
+EE5323,,Digital Img Processing,EE,1,0,0
+EE5330,,Emb & Real-Time Comp,EE,0,0,0
+EE5350,,Adv Elec Cir Des,EE,0,0,1
+EE5353,,Fund Adv CMOS Tech,EE,0,0,0
+EE5354,,Flexible Electronics,EE,0,0,0
+EE5355,,Elect Mat & Devices,EE,0,0,0
+EE5360,,Thin Film Tech,EE,0,0,0
+EE5372,,Comm Networks,EE,1,0,0
+EE5374,,Wireless Communications,EE,0,0,1
+EE5375,,Smart Grid: App Dev Platform,EE,0,0,1
+EE5377,,Statistical Signal Processing,EE,0,0,0
+EE5385,,Optoelectronic Devices,EE,0,0,0
+EE5398A,,Antenna Theory Des App,EE,0,0,0
+EE5398B,,Elec Mat and Beyond for Sus Energy,EE,0,0,0
+EE5398C,,Multimedia Sig Proc,EE,0,0,0
+EE5398D,,Electroceramics,EE,0,0,0
+ENGR3373,,Cir and Dev,EE,2,0,2
+MFGE4392,,Microelec MFGE I,MFGE,1,0,1
+MFGE4394,,Microelec MFGE II,MFGE,1,0,1
+IE3320,,Engr Statistics,Director,4,1,4

@@ -1,0 +1,15 @@
+    <div class="container">
+        <h5 class="school-year-header rounded">{{yearString}}</h5>
+        
+        <div class="row top-padding bottom-padding">
+            <div class="col-lg-2 col-title">instructor name</div>
+            <div class="col-lg-1 col-title">net ID</div>
+        </div>
+  
+        <div class="row top-padding bottom-padding" *ngFor="let instructor of instructorsList">
+            <div class="col-lg-2 col-text-instructor rounded" routerLink="/instructors/{{instructor.net_id}}">
+                {{instructor.name}}
+            </div>
+            <div class="col-lg-1 col-text">{{instructor.net_id}}</div>
+        </div>
+    </div>

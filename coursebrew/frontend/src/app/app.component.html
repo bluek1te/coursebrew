@@ -1,0 +1,81 @@
+<div *ngIf="checkLogin()">
+<nav class="navbar fixed-top navbar-expand-lg navbar-light">
+    <ul class="navbar-nav mr-auto">
+      
+      <div>
+      <li class="nav-item">
+        <a class="dropbtn" routerLink="/home" ><span><img class="navbar-icons" src="/src/assets/img/home.svg" width="30" height="30"></span></a>
+      </li>
+      </div>
+      
+      <div>
+      <li class="nav-item dropdown">
+        <a class="dropbtn" routerLink="/home" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          <span><img class="navbar-icons" src="/src/assets/img/agenda-2.svg" width="30" height="30"></span>
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" routerLink="/add-course" routerLinkActive="active">Add Course</a>
+          <a class="dropdown-item" routerLink="/courses" routerLinkActive="active">Manage Courses</a>
+        </div>
+      </li>
+      </div>
+      
+      <div>
+      <li class="nav-item dropdown">
+        <a class="dropbtn" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          <span><img class="navbar-icons" src="/src/assets/img/man.svg" width="30" height="30"></span>
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" routerLink="/add-instructor" routerLinkActive="active">Add Instructor</a>
+          <a class="dropdown-item" routerLink="/instructors" routerLinkActive="active">Manage Instructors</a>
+        </div>
+      </li>
+      </div>
+      
+      <div>
+          <li class="nav-item dropdown">
+              <a class="dropbtn" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                  <span><img class="navbar-icons" src="/src/assets/img/download-2.svg" width="30" height="30"></span>
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a href="http://198.58.116.113:5000/generate_pdf" target="_blank" class="dropdown-item">PDF Export</a>
+              </div>
+          </li>
+      </div>
+      
+      <div>
+          <li class="nav-item">
+              <a class="dropbtn" routerLink="/admin" ><span><img class="navbar-icons" src="/src/assets/img/user.svg" width="30" height="30"></span></a>
+          </li>
+      </div>
+    
+    </ul>
+  
+  
+      <div class="row">
+          <div class="col">
+              <div class="row">
+                  <div class="dropdown">
+                      <h6 class="dropbtn dropdown-toggle user" routerLink="/home" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" *ngIf="checkLogin()">
+                          hello {{scope.username}}!
+                          <span class="caret"></span>
+                      </h6>
+                      <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                          <a class="dropdown-item user" *ngIf="checkLogin()" style="margin-right:50px; float:right; cursor: pointer" (click)="logout()">logout</a>
+                      </div>
+                  </div>
+              </div>
+              <div class="row">
+                 <a class="navbar-brand" href="#">coursebrew</a>
+              </div>
+          </div>
+      </div>
+  
+  
+</nav>
+</div>
+
+
+<div class="container">
+    <router-outlet></router-outlet>
+</div>

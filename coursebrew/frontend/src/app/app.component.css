@@ -1,0 +1,80 @@
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+    background-color: #a37a74;
+    height: 80px;
+}
+
+.navbar-brand{
+    color: #a8d0db;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 30px;
+    padding-left: 12px;
+    padding-right: 20px;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+}
+
+.navbar-brand:hover{
+    color: #a8d0db;
+}
+
+.dropdown-item{
+    font-family: 'Work Sans', sans-serif;
+    color: #2b4570;
+}
+
+.navbar-icons{
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.dropdown-item:hover{
+    background-color: #a8d0db;
+}
+
+.dropdown-item:active{
+    background-color: #a8d0db;
+}
+
+.active{
+   background-color: #a8d0db;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.dropdown>ul>li>a:hover {
+    margin-bottom:20px;
+}
+
+.container[_ngcontent-c1] {
+    margin-top:20px;
+}
+
+.user{
+    font-family: 'Work Sans', sans-serif;
+    color: #a8d0db;
+    font-size: 15px;
+    margin-bottom: 0px;
+    margin-right: 0px !important;
+    margin-left: 90px;
+}
+
+
+.logout-btn{
+    background-color: #e49273;
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 15px;
+}
+
+.logout-btn:focus{
+    box-shadow: none;
+    border-color: #7180ac;
+    border-width: 2px;
+}
+
+

@@ -1,0 +1,73 @@
+.container{
+    margin-top: 90px;
+}
+
+.title-div{
+    border-bottom: solid 2px #a8d0db;
+}
+
+.title{
+    color: #7180ac;
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+}
+
+.login-box{
+    margin: auto;
+    margin-top: 80px;
+    width: 400px;
+    height: 500px;
+    border: solid 2px #a8d0db;
+}
+
+.login-header{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.login-title{
+    color: #7180ac;
+    font-family: 'Work Sans', sans-serif;
+    text-align: center;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.login-fields{
+    margin-left: 80px;
+}
+
+label{
+    color: #7180ac;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.textbox-color{
+    background-color: #a8d0db;
+    font-family: 'Work Sans', sans-serif;
+    color: #ffffff;
+    
+}
+
+.textbox-color:focus{
+    box-shadow: none;
+    border-color: #7180ac;
+    border-width: 2px;
+}
+
+.login-btn{
+    background-color: #e49273;
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+    margin-top: 20px;
+}
+
+.login-btn:focus{
+    box-shadow: none;
+    border-color: #7180ac;
+    border-width: 2px;
+}
+

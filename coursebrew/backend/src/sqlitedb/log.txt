@@ -1,0 +1,636 @@
+71.42.179.138(2019-04-19 16:16:57.760807): Error in login() function
+71.42.179.138 (2019-04-19 16:25:40.707174): Error in login() function
+71.42.179.138 (2019-04-19 16:27:53.800762): User successfully logged in as pqt3
+162.242.0.136 (2019-04-19 22:56:03.343899): User successfully logged in as pqt3
+108.169.203.65 (2019-04-20 00:39:11.657341): User successfully logged in as pqt3
+70.113.9.201 (2019-04-21 19:27:44.219126): User successfully logged in as pqt3
+70.112.231.204 (2019-04-21 23:27:09.832476): IE1000A added to courses
+70.112.231.204 (2019-04-22 02:47:45.982331): Error caught in get_courses() located in courses.py
+70.112.231.204 (2019-04-22 02:47:52.567393): User successfully logged in as stan
+70.112.231.204 (2019-04-22 02:47:52.776505): Error caught in check_admin() located in admin.py
+70.112.231.204 (2019-04-22 02:47:59.535846): Error caught in check_admin() located in admin.py
+70.112.231.204 (2019-04-22 02:48:05.376769): Successfully logged out
+70.112.231.204 (2019-04-22 02:48:09.400474): User successfully logged in as kcm91
+70.112.231.204 (2019-04-22 02:48:09.608673): Error caught in check_admin() located in admin.py
+70.112.231.204 (2019-04-22 02:48:11.790811): Error caught in check_admin() located in admin.py
+70.112.231.204 (2019-04-22 02:48:36.530262): Successfully logged out
+70.112.231.204 (2019-04-22 02:48:39.908251): User successfully logged in as kcm91
+70.112.231.204 (2019-04-22 02:48:40.121733): Error caught in check_admin() located in admin.py
+70.112.231.204 (2019-04-22 02:48:43.894218): Error caught in check_admin() located in admin.py
+70.112.231.204 (2019-04-22 02:49:06.437564): Successfully logged out
+70.112.231.204 (2019-04-22 02:49:10.038310): User successfully logged in as pqt3
+70.112.231.204 (2019-04-22 02:49:10.250372): Error caught in check_admin() located in admin.py
+70.112.231.204 (2019-04-22 02:49:12.050272): Error caught in check_admin() located in admin.py
+70.112.231.204 (2019-04-22 02:50:13.670550): Error caught in check_admin() located in admin.py
+70.112.231.204 (2019-04-22 02:50:34.281760): Error caught in check_admin() located in admin.py
+70.112.231.204 (2019-04-22 02:51:08.942113): Error caught in check_admin() located in admin.py
+70.112.231.204 (2019-04-22 02:51:12.471881): Error caught in check_admin() located in admin.py
+70.112.231.204 (2019-04-22 02:52:21.458661): Successfully logged out
+70.112.231.204 (2019-04-22 02:52:25.607714): User successfully logged in as kcm91
+70.112.231.204 (2019-04-22 02:52:57.238332): Successfully logged out
+70.112.231.204 (2019-04-22 02:52:57.386871): Error caught in get_courses() located in courses.py
+70.112.231.204 (2019-04-22 02:52:57.388205): Successfully logged out
+70.112.231.204 (2019-04-22 02:53:06.857680): User successfully logged in as stan
+70.112.231.204 (2019-04-22 02:53:06.942589): User successfully logged in as stan
+70.112.231.204 (2019-04-22 02:53:13.851382): Successfully logged out
+70.112.231.204 (2019-04-22 02:53:16.792488): User successfully logged in as stan
+70.112.231.204 (2019-04-22 02:55:58.633748): Successfully logged out
+70.112.231.204 (2019-04-22 02:56:05.554855): User successfully logged in as pqt3
+70.112.231.204 (2019-04-22 02:57:28.106003): Successfully logged out
+70.112.231.204 (2019-04-22 02:57:42.114932): User successfully logged in as stan
+70.112.231.204 (2019-04-22 03:04:51.884052): Error caught in get_course() located in courses.py
+70.112.231.204 (2019-04-22 03:04:51.976607): Error caught in get_courses() located in courses.py
+70.112.231.204 (2019-04-22 03:04:53.092534): User successfully logged in as stan
+70.112.231.204 (2019-04-22 03:05:49.938831): assigned Yihong Chen to Circuits I: 001
+70.112.231.204 (2019-04-22 03:05:49.941930): assigned Lee Hinkle to Circuits I: 002
+70.112.231.204 (2019-04-22 03:06:01.648126): assigned Lee Hinkle to Circuits I: 002
+70.112.231.204 (2019-04-22 03:06:01.652554): assigned Yihong Chen to Circuits I: 001
+70.112.231.204 (2019-04-22 03:06:01.660832): assigned Rich Compeau to Circuits I: L01
+147.26.87.177 (2019-04-22 14:46:20.243041): Error caught in get_courses() located in courses.py
+147.26.87.161 (2019-04-22 14:46:40.701315): Error caught in get_courses() located in courses.py
+147.26.87.161 (2019-04-22 14:47:49.317399): User successfully logged in as pqt3
+147.26.87.177 (2019-04-22 14:57:17.604844): Error caught in get_courses() located in courses.py
+147.26.87.177 (2019-04-22 14:57:22.191956): User successfully logged in as pqt3
+147.26.87.156 (2019-04-22 15:04:20.395510): Error caught in get_courses() located in courses.py
+147.26.87.156 (2019-04-22 15:04:31.264111): User successfully logged in as pqt3
+147.26.87.154 (2019-04-22 20:40:30.911675): Error caught in get_courses() located in courses.py
+147.26.87.154 (2019-04-22 20:40:45.680482): User successfully logged in as stan
+162.242.0.136 (2019-04-23 00:44:12.696862): Error caught in get_courses() located in courses.py
+162.242.0.136 (2019-04-23 00:44:23.143814): User successfully logged in as pqt3
+162.242.0.136 (2019-04-23 00:46:40.224830): assigned Yihong Chen to Digital Logic: 001
+162.242.0.136 (2019-04-23 00:46:40.228163): assigned Semih Aslan to Digital Logic: 002
+162.242.0.136 (2019-04-23 00:49:39.595439): assigned Yihong Chen to Digital Logic: 001
+162.242.0.136 (2019-04-23 00:49:39.598469): assigned Larry Larson to Digital Logic: L01
+162.242.0.136 (2019-04-23 00:49:39.601170): assigned Rich Compeau to Digital Logic: L02
+162.242.0.136 (2019-04-23 00:49:39.604430): assigned Semih Aslan to Digital Logic: 002
+162.242.0.136 (2019-04-23 00:51:25.777443): assigned Semih Aslan to Electromagnetics: L01
+162.242.0.136 (2019-04-23 00:51:25.780502): assigned Rich Compeau to Electromagnetics: 001
+162.242.0.136 (2019-04-23 00:52:36.204473): assigned Lee Hinkle to Electronics I: 001
+162.242.0.136 (2019-04-23 00:52:36.218036): assigned Semih Aslan to Electronics I: 002
+162.242.0.136 (2019-04-23 00:52:36.249663): assigned Yihong Chen to Electronics I: L02
+162.242.0.136 (2019-04-23 02:08:40.869955): Successfully logged out
+162.242.0.136 (2019-04-23 02:08:52.243905): User successfully logged in as pqt3
+162.242.0.136 (2019-04-23 02:30:48.686985): Successfully logged out
+162.242.0.136 (2019-04-23 02:30:55.184359): User successfully logged in as pqt3
+162.242.0.136 (2019-04-23 02:39:36.573141): Successfully logged out
+162.242.0.136 (2019-04-23 02:39:43.232164): User successfully logged in as pqt3
+66.68.177.241 (2019-04-23 03:02:35.920904): Error caught in get_courses() located in courses.py
+97.105.230.74 (2019-04-23 18:24:54.081311): User successfully logged in as pqt3
+147.26.87.7 (2019-04-24 17:18:18.413710): User successfully logged in as pqt3
+66.249.73.153 (2019-04-26 17:34:18.016635): Error caught in check_login_cache() located in login.py
+66.249.73.153 (2019-04-26 17:34:18.469980): Error caught in check_login_cache() located in login.py
+70.115.147.65 (2019-04-28 16:55:48.006324): Error caught in check_login_cache() located in login.py
+70.115.147.65 (2019-04-28 16:55:48.066432): Error caught in check_login_cache() located in login.py
+70.115.147.65 (2019-04-28 16:56:02.355661): Error caught in check_login_cache() located in login.py
+70.115.147.65 (2019-04-28 16:56:02.461800): Error caught in check_login_cache() located in login.py
+70.115.147.65 (2019-04-28 16:59:27.019038): User successfully logged in as pqt3
+70.115.147.65 (2019-04-28 17:57:07.404064): Successfully logged out
+70.115.147.65 (2019-04-28 17:57:21.934527): User successfully logged in as pqt3
+70.113.9.201 (2019-04-28 20:46:42.654539): User successfully logged in as pqt3
+147.26.87.165 (2019-05-01 15:02:39.760223): User successfully logged in as pqt3
+147.26.87.162 (2019-05-01 15:08:31.359872): User successfully logged in as pqt3
+147.26.87.162 (2019-05-01 17:13:43.936043): Error caught in get_log() located in admin.py
+147.26.87.162 (2019-05-01 17:15:06.338718): Error caught in get_log() located in admin.py
+24.155.79.53 (2019-05-01 17:28:02.492254): User successfully logged in as daj65
+24.155.79.53 (2019-05-01 17:28:43.026389): Error caught in add_course() located in courses.py
+24.155.79.53 (2019-05-01 17:28:54.153702): Error caught in add_course() located in courses.py
+24.155.79.53 (2019-05-01 17:29:19.262234): Error caught in add_course() located in courses.py
+24.155.79.53 (2019-05-01 17:29:29.127797): Error caught in add_course() located in courses.py
+147.26.87.162 (2019-05-01 17:50:25.553041): User successfully logged in as pqt3
+147.26.87.162 (2019-05-01 17:50:50.599620): Successfully logged out
+147.26.87.162 (2019-05-01 17:51:03.146087): User successfully logged in as daj65
+147.26.87.162 (2019-05-01 17:51:37.811071): Error caught in add_course() located in courses.py
+147.26.87.162 (2019-05-01 17:53:39.748659): Error caught in add_course() located in courses.py
+147.26.87.165 (2019-05-01 17:56:49.491109): Successfully logged out
+147.26.87.165 (2019-05-01 17:57:00.992369): User successfully logged in as kcm91
+147.26.87.162 (2019-05-01 17:58:58.405146): prefixtest7 added to courses
+147.26.87.165 (2019-05-01 18:00:00.561698): EE100 added to courses
+147.26.87.162 (2019-05-01 18:01:15.064151): User successfully logged in as pqt3
+147.26.87.165 (2019-05-01 18:12:33.753974): EE555 added to courses
+147.26.87.165 (2019-05-01 18:21:09.880361): EE555 deleted from courses
+147.26.87.165 (2019-05-01 18:24:47.622786): Successfully logged out
+147.26.87.165 (2019-05-01 18:24:53.291297): User successfully logged in as pqt3
+147.26.87.162 (2019-05-01 18:39:45.933837): Successfully logged out
+147.26.87.162 (2019-05-01 18:39:51.551787): User successfully logged in as daj65
+147.26.87.162 (2019-05-01 18:42:09.147790): assigned Allie to Calc1: 002
+147.26.87.162 (2019-05-01 18:42:09.150891): assigned Bob to Calc1: 001
+162.242.0.136 (2019-05-01 20:19:50.433806): Successfully logged out
+24.155.79.53 (2019-05-01 20:20:02.081367): assigned Adam to Calc1: L01
+24.155.79.53 (2019-05-01 20:20:02.098749): assigned Bob to Calc1: 001
+24.155.79.53 (2019-05-01 20:20:02.125164): assigned Adam to Calc1: L02
+24.155.79.53 (2019-05-01 20:20:02.144163): assigned Allie to Calc1: 002
+24.155.79.53 (2019-05-01 20:20:02.150607): assigned Allie to Calc1: L01
+24.155.79.53 (2019-05-01 20:20:02.160756): assigned Betty to Calc1: 251
+24.155.79.53 (2019-05-01 20:20:02.171603): assigned Betty to Calc1: L02
+24.155.79.53 (2019-05-01 20:20:02.187775): assigned Bob to Calc1: 252
+24.155.79.53 (2019-05-01 20:20:08.017893): assigned Adam to Calc1: 001
+24.155.79.53 (2019-05-01 20:20:08.023005): assigned Adam to Calc1: L01
+24.155.79.53 (2019-05-01 20:20:08.026793): assigned Adam to Calc1: L02
+24.155.79.53 (2019-05-01 20:20:08.028528): assigned Adam to Calc1: 002
+24.155.79.53 (2019-05-01 20:20:08.034275): assigned Betty to Calc1: 251
+24.155.79.53 (2019-05-01 20:20:08.048184): assigned Bob to Calc1: 252
+24.155.79.53 (2019-05-01 20:20:08.082463): assigned Allie to Calc1: L01
+24.155.79.53 (2019-05-01 20:20:08.087442): assigned Betty to Calc1: L02
+162.242.0.136 (2019-05-01 20:20:18.176304): User successfully logged in as kcm91
+24.155.79.53 (2019-05-01 20:20:49.304318): assigned Adam to Calc1: 002
+24.155.79.53 (2019-05-01 20:20:49.307534): assigned Adam to Calc1: 001
+24.155.79.53 (2019-05-01 20:20:49.318141): assigned Adam to Calc1: L02
+24.155.79.53 (2019-05-01 20:20:49.331824): assigned Adam to Calc1: L01
+24.155.79.53 (2019-05-01 20:20:49.358793): assigned Bob to Calc1: 252
+24.155.79.53 (2019-05-01 20:20:49.361827): assigned Betty to Calc1: 251
+24.155.79.53 (2019-05-01 20:20:49.393752): assigned Allie to Calc1: L01
+24.155.79.53 (2019-05-01 20:20:49.422364): assigned Betty to Calc1: L02
+162.242.0.136 (2019-05-01 20:20:53.006008): EE101 added to courses
+24.155.79.53 (2019-05-01 20:21:08.626501): assigned Adam to Calc1: 001
+24.155.79.53 (2019-05-01 20:21:08.655905): assigned Allie to Calc1: L02
+24.155.79.53 (2019-05-01 20:21:08.668798): assigned Adam to Calc1: 252
+24.155.79.53 (2019-05-01 20:21:08.672558): assigned Adam to Calc1: 002
+24.155.79.53 (2019-05-01 20:21:08.675245): assigned Adam to Calc1: L01
+24.155.79.53 (2019-05-01 20:21:08.680864): assigned Adam to Calc1: 251
+24.155.79.53 (2019-05-01 20:21:08.696415): assigned Adam to Calc1: L01
+24.155.79.53 (2019-05-01 20:21:08.730143): assigned Allie to Calc1: L02
+24.155.79.53 (2019-05-01 20:21:20.231192): assigned Adam to Calc1: 251
+24.155.79.53 (2019-05-01 20:21:20.234163): assigned Allie to Calc1: L01
+24.155.79.53 (2019-05-01 20:21:20.237469): assigned Adam to Calc1: 001
+24.155.79.53 (2019-05-01 20:21:20.239456): assigned Adam to Calc1: 252
+24.155.79.53 (2019-05-01 20:21:20.241611): assigned Adam to Calc1: 002
+24.155.79.53 (2019-05-01 20:21:20.250372): assigned Allie to Calc1: L02
+24.155.79.53 (2019-05-01 20:21:20.318447): assigned Allie to Calc1: L02
+24.155.79.53 (2019-05-01 20:21:20.330218): assigned Allie to Calc1: L01
+24.155.79.53 (2019-05-01 20:21:36.941953): assigned Adam to Calc1: 001
+24.155.79.53 (2019-05-01 20:21:37.029924): assigned Allie to Calc1: L02
+24.155.79.53 (2019-05-01 20:21:37.034424): assigned Allie to Calc1: 501
+24.155.79.53 (2019-05-01 20:21:37.038021): assigned Allie to Calc1: L01
+24.155.79.53 (2019-05-01 20:21:37.040333): assigned Adam to Calc1: 002
+24.155.79.53 (2019-05-01 20:21:37.075604): assigned Allie to Calc1: L01
+24.155.79.53 (2019-05-01 20:21:37.107356): assigned Adam to Calc1: 252
+24.155.79.53 (2019-05-01 20:21:37.114091): assigned Adam to Calc1: 251
+24.155.79.53 (2019-05-01 20:21:37.134510): assigned Allie to Calc1: L01
+24.155.79.53 (2019-05-01 20:21:37.190655): assigned Allie to Calc1: L02
+162.242.0.136 (2019-05-01 20:21:43.105204): EE102 added to courses
+24.155.79.53 (2019-05-01 20:22:05.233200): assigned Allie to Calc2: 001
+24.155.79.53 (2019-05-01 20:22:05.237119): assigned Bob to Calc2: L01
+24.155.79.53 (2019-05-01 20:22:05.260274): assigned Bob to Calc2: 002
+24.155.79.53 (2019-05-01 20:22:05.263722): assigned Bob to Calc2: L02
+24.155.79.53 (2019-05-01 20:22:26.367730): assigned Allie to Calc2: 001
+24.155.79.53 (2019-05-01 20:22:26.400101): assigned Bob to Calc2: 002
+24.155.79.53 (2019-05-01 20:22:26.425333): assigned Allie to Calc2: 251
+24.155.79.53 (2019-05-01 20:22:26.446200): assigned Bob to Calc2: L02
+24.155.79.53 (2019-05-01 20:22:26.467089): assigned Bob to Calc2: L01
+24.155.79.53 (2019-05-01 20:22:26.535233): assigned Bob to Calc2: 252
+24.155.79.53 (2019-05-01 20:22:26.538457): assigned Bob to Calc2: L01
+24.155.79.53 (2019-05-01 20:22:26.546822): assigned Bob to Calc2: L02
+162.242.0.97 (2019-05-01 20:22:33.903382): User successfully logged in as pqt3
+24.155.79.53 (2019-05-01 20:23:07.969726): assigned Bob to Art2: 001
+24.155.79.53 (2019-05-01 20:23:07.979853): assigned Bob to Art2: 002
+24.155.79.53 (2019-05-01 20:23:27.644099): assigned Bob to Art2: 001
+24.155.79.53 (2019-05-01 20:23:27.661562): assigned Betty to Art2: 003
+24.155.79.53 (2019-05-01 20:23:27.668211): assigned Bob to Art2: 252
+24.155.79.53 (2019-05-01 20:23:27.671124): assigned Betty to Art2: 253
+24.155.79.53 (2019-05-01 20:23:27.676677): assigned Bob to Art2: 251
+24.155.79.53 (2019-05-01 20:23:27.687102): assigned Bob to Art2: 002
+162.242.0.136 (2019-05-01 20:23:54.444661): assigned Kiana C. McDaniel to Scuba Diving: L01
+162.242.0.136 (2019-05-01 20:23:54.460322): assigned Kiana C. McDaniel to Scuba Diving: 751
+162.242.0.136 (2019-05-01 20:23:54.463475): assigned Phillip Tran to Scuba Diving: L01
+162.242.0.136 (2019-05-01 20:23:54.468575): assigned Phillip Tran to Scuba Diving: L51
+162.242.0.136 (2019-05-01 20:23:54.477689): assigned Kiana C. McDaniel to Scuba Diving: 001
+162.242.0.136 (2019-05-01 20:23:54.496065): assigned Phillip Tran to Scuba Diving: 251
+24.155.79.53 (2019-05-01 20:24:44.133342): assigned Bob to Art2: 002
+24.155.79.53 (2019-05-01 20:24:44.138876): assigned Betty to Art2: 003
+24.155.79.53 (2019-05-01 20:24:44.141389): assigned Betty to Art2: 501
+24.155.79.53 (2019-05-01 20:24:44.152571): assigned Bob to Art2: 001
+24.155.79.53 (2019-05-01 20:24:44.190401): assigned Betty to Art2: 502
+24.155.79.53 (2019-05-01 20:24:44.198775): assigned Betty to Art2: 503
+24.155.79.53 (2019-05-01 20:24:44.227633): assigned Bob to Art2: 251
+24.155.79.53 (2019-05-01 20:24:44.238011): assigned Bob to Art2: 252
+24.155.79.53 (2019-05-01 20:24:44.396795): assigned Betty to Art2: 253
+162.242.0.136 (2019-05-01 20:25:08.643675): assigned Kiana C. McDaniel to Ceramics: 001
+162.242.0.136 (2019-05-01 20:25:08.648783): assigned Kiana C. McDaniel to Ceramics: L01
+162.242.0.136 (2019-05-01 20:25:08.655136): assigned Kiana C. McDaniel to Ceramics: 501
+162.242.0.136 (2019-05-01 20:25:08.659387): assigned Phillip Tran to Ceramics: L01
+162.242.0.136 (2019-05-01 20:25:08.661677): assigned Phillip Tran to Ceramics: L01
+162.242.0.136 (2019-05-01 20:25:08.665095): assigned Phillip Tran to Ceramics: 251
+24.155.79.53 (2019-05-01 20:27:47.597917): assigned Betty to Art2: 003
+24.155.79.53 (2019-05-01 20:27:47.601363): assigned Betty to Art2: 502
+24.155.79.53 (2019-05-01 20:27:47.604786): assigned Betty to Art2: 501
+24.155.79.53 (2019-05-01 20:27:47.607366): assigned Bob to Art2: 001
+24.155.79.53 (2019-05-01 20:27:47.620727): assigned Bob to Art2: 002
+24.155.79.53 (2019-05-01 20:27:47.624109): assigned Betty to Art2: 503
+24.155.79.53 (2019-05-01 20:27:47.657613): assigned Bob to Art2: 252
+24.155.79.53 (2019-05-01 20:27:47.662062): assigned Bob to Art2: 251
+24.155.79.53 (2019-05-01 20:27:47.665035): assigned Betty to Art2: 253
+24.155.79.53 (2019-05-01 20:31:27.198975): assigned Courtney to Art1: 003
+24.155.79.53 (2019-05-01 20:31:27.204531): assigned Betty to Art1: 002
+24.155.79.53 (2019-05-01 20:31:27.208799): assigned Bob to Art1: 005
+24.155.79.53 (2019-05-01 20:31:27.212498): assigned Courtney to Art1: 251
+24.155.79.53 (2019-05-01 20:31:27.215529): assigned Chris to Art1: 001
+24.155.79.53 (2019-05-01 20:31:27.223266): assigned David to Art1: 004
+24.155.79.53 (2019-05-01 20:31:27.264010): assigned Bob to Art1: 252
+24.155.79.53 (2019-05-01 20:31:27.337129): assigned Chris to Art1: 253
+24.155.79.53 (2019-05-01 20:46:30.177203): assigned Betty to Art1: 002
+24.155.79.53 (2019-05-01 20:46:30.182213): assigned Chris to Art1: 001
+24.155.79.53 (2019-05-01 20:46:30.186083): assigned Courtney to Art1: 003
+24.155.79.53 (2019-05-01 20:46:30.213176): assigned Bob to Art1: 005
+24.155.79.53 (2019-05-01 20:46:30.216939): assigned Courtney to Art1: 251
+24.155.79.53 (2019-05-01 20:46:30.222123): assigned David to Art1: 004
+24.155.79.53 (2019-05-01 20:46:30.272636): assigned Chris to Art1: 253
+24.155.79.53 (2019-05-01 20:46:30.275376): assigned Bob to Art1: 252
+24.155.79.53 (2019-05-01 20:46:30.280996): assigned Courtney to Art1: 254
+50.84.82.172 (2019-05-01 22:59:19.318224): User successfully logged in as kcm91
+50.84.82.172 (2019-05-01 22:59:28.652883): EE101 deleted from courses
+50.84.82.172 (2019-05-01 22:59:40.903440): EE102 deleted from courses
+50.84.82.172 (2019-05-01 23:00:33.843598): EE111 added to courses
+50.84.82.172 (2019-05-01 23:01:01.185911): EE222 added to courses
+50.84.82.172 (2019-05-01 23:01:27.860693): EE333 added to courses
+50.84.82.172 (2019-05-01 23:01:41.844048): EE444 added to courses
+50.84.82.172 (2019-05-01 23:12:27.642526): assigned Adam A.  to Calculus I: 001
+50.84.82.172 (2019-05-01 23:12:27.646273): assigned Adam A.  to Calculus I: L02
+50.84.82.172 (2019-05-01 23:12:27.651363): assigned Adam A.  to Calculus I: L01
+50.84.82.172 (2019-05-01 23:12:27.662045): assigned Bob B. to Calculus I: L01
+50.84.82.172 (2019-05-01 23:12:27.688925): assigned Allie A. to Calculus I: 251
+50.84.82.172 (2019-05-01 23:12:27.693598): assigned Bob B. to Calculus I: 501
+50.84.82.172 (2019-05-01 23:12:27.700495): assigned Allie A. to Calculus I: L01
+50.84.82.172 (2019-05-01 23:12:27.702595): assigned Allie A. to Calculus I: L02
+50.84.82.172 (2019-05-01 23:14:28.124539): assigned Allie A. to Calculus II: 001
+50.84.82.172 (2019-05-01 23:14:28.129877): assigned Danielle D.  to Calculus II: 751
+50.84.82.172 (2019-05-01 23:14:28.134763): assigned Allie A. to Calculus II: L02
+50.84.82.172 (2019-05-01 23:14:28.138379): assigned Allie A. to Calculus II: L01
+50.84.82.172 (2019-05-01 23:14:28.180522): assigned Adam A.  to Calculus II: 251
+50.84.82.172 (2019-05-01 23:14:28.183757): assigned Danielle D.  to Calculus II: L51
+50.84.82.172 (2019-05-01 23:14:28.187101): assigned Adam A.  to Calculus II: L01
+50.84.82.172 (2019-05-01 23:14:28.190794): assigned Adam A.  to Calculus II: L02
+50.84.82.172 (2019-05-01 23:15:05.660515): assigned Bob B. to Art I: 002
+50.84.82.172 (2019-05-01 23:15:05.672004): assigned Bob B. to Art I: 001
+50.84.82.172 (2019-05-01 23:15:05.702328): assigned Bob B. to Art I: L02
+50.84.82.172 (2019-05-01 23:15:05.710560): assigned Bob B. to Art I: 501
+50.84.82.172 (2019-05-01 23:15:05.718124): assigned Bob B. to Art I: L01
+50.84.82.172 (2019-05-01 23:15:05.721337): assigned Bob B. to Art I: 252
+50.84.82.172 (2019-05-01 23:15:05.723676): assigned Bob B. to Art I: 251
+50.84.82.172 (2019-05-01 23:15:05.726483): assigned Bob B. to Art I: 751
+50.84.82.172 (2019-05-01 23:15:05.777773): assigned Bob B. to Art I: L01
+50.84.82.172 (2019-05-01 23:15:05.779972): assigned Bob B. to Art I: L02
+50.84.82.172 (2019-05-01 23:15:34.200599): assigned Danielle D.  to Art II: 001
+50.84.82.172 (2019-05-01 23:15:34.238104): assigned Danielle D.  to Art II: 002
+50.84.82.172 (2019-05-01 23:15:34.241454): assigned Danielle D.  to Art II: L02
+50.84.82.172 (2019-05-01 23:15:34.245207): assigned Danielle D.  to Art II: L01
+50.84.82.172 (2019-05-01 23:15:34.247671): assigned Danielle D.  to Art II: 751
+50.84.82.172 (2019-05-01 23:15:34.251631): assigned Danielle D.  to Art II: 501
+50.84.82.172 (2019-05-01 23:15:34.295000): assigned Danielle D.  to Art II: 251
+50.84.82.172 (2019-05-01 23:15:34.305328): assigned Danielle D.  to Art II: 252
+50.84.82.172 (2019-05-01 23:15:34.308673): assigned Danielle D.  to Art II: L02
+50.84.82.172 (2019-05-01 23:15:34.311896): assigned Danielle D.  to Art II: L01
+70.112.231.204 (2019-05-01 23:34:08.066204): Successfully logged out
+70.112.231.204 (2019-05-01 23:34:13.282835): User successfully logged in as pqt3
+70.112.231.204 (2019-05-01 23:58:00.154504): Successfully logged out
+70.112.231.204 (2019-05-01 23:58:03.924230): User successfully logged in as kcm91
+50.84.82.172 (2019-05-02 00:05:46.474285): assigned Adam A. to Calculus I: L01
+50.84.82.172 (2019-05-02 00:05:46.511481): assigned Bob B. to Calculus I: L01
+50.84.82.172 (2019-05-02 00:05:46.516752): assigned Allie A. to Calculus I: 251
+50.84.82.172 (2019-05-02 00:05:46.539499): assigned Allie A. to Calculus I: L01
+50.84.82.172 (2019-05-02 00:05:46.542361): assigned Allie A. to Calculus I: L02
+50.84.82.172 (2019-05-02 00:05:46.621522): assigned Adam A. to Calculus I: 001
+50.84.82.172 (2019-05-02 00:05:46.626313): assigned Adam A. to Calculus I: L02
+50.84.82.172 (2019-05-02 00:05:46.650406): assigned Bob B. to Calculus I: 501
+50.84.82.172 (2019-05-02 00:06:02.004388): assigned Allie A. to Calculus II: 001
+50.84.82.172 (2019-05-02 00:06:02.056374): assigned Danielle D.  to Calculus II: L51
+50.84.82.172 (2019-05-02 00:06:02.078612): assigned Allie A. to Calculus II: L02
+50.84.82.172 (2019-05-02 00:06:02.115598): assigned Danielle D.  to Calculus II: 751
+50.84.82.172 (2019-05-02 00:06:02.129518): assigned Adam A. to Calculus II: L01
+50.84.82.172 (2019-05-02 00:06:02.131959): assigned Adam A. to Calculus II: L02
+50.84.82.172 (2019-05-02 00:06:02.142795): assigned Allie A. to Calculus II: L01
+50.84.82.172 (2019-05-02 00:06:03.394251): assigned Adam A. to Calculus II: 251
+24.155.79.53 (2019-05-02 00:07:09.956637): assigned Courtney to Art1: 003
+24.155.79.53 (2019-05-02 00:07:09.962316): assigned Chris to Art1: 001
+24.155.79.53 (2019-05-02 00:07:09.965274): assigned Betty to Art1: 002
+24.155.79.53 (2019-05-02 00:07:09.969613): assigned Betty to Art1: 005
+24.155.79.53 (2019-05-02 00:07:09.972997): assigned Courtney to Art1: 251
+24.155.79.53 (2019-05-02 00:07:09.978311): assigned David to Art1: 004
+24.155.79.53 (2019-05-02 00:07:10.030889): assigned Bob to Art1: 252
+24.155.79.53 (2019-05-02 00:07:10.033524): assigned Chris to Art1: 253
+24.155.79.53 (2019-05-02 00:07:10.112411): assigned Courtney to Art1: 254
+24.155.79.53 (2019-05-02 00:08:13.619501): assigned Bob to Art1: 001
+24.155.79.53 (2019-05-02 00:08:13.641330): assigned Bob to Art1: 002
+24.155.79.53 (2019-05-02 00:08:13.644921): assigned Courtney to Art1: 006
+24.155.79.53 (2019-05-02 00:08:13.647420): assigned Chris to Art1: 004
+24.155.79.53 (2019-05-02 00:08:13.650078): assigned Chris to Art1: 005
+24.155.79.53 (2019-05-02 00:08:13.654798): assigned Bob to Art1: 003
+24.155.79.53 (2019-05-02 00:08:13.700270): assigned Courtney to Art1: 007
+24.155.79.53 (2019-05-02 00:08:13.724276): assigned David to Art1: 008
+24.155.79.53 (2019-05-02 00:08:13.793504): assigned Danielle to Art1: 010
+24.155.79.53 (2019-05-02 00:08:13.800537): assigned David to Art1: 009
+70.112.231.204 (2019-05-02 01:34:52.113539): Successfully logged out
+70.112.231.204 (2019-05-02 01:34:56.379802): User successfully logged in as welker
+72.179.47.104 (2019-05-02 14:04:58.242891): Successfully logged out
+72.179.47.104 (2019-05-02 14:05:36.628429): User successfully logged in as kcm91
+72.179.47.104 (2019-05-02 14:05:49.236514): EE111 deleted from courses
+72.179.47.104 (2019-05-02 14:05:54.533998): EE222 deleted from courses
+72.179.47.104 (2019-05-02 14:06:05.006792): EE333 deleted from courses
+72.179.47.104 (2019-05-02 14:06:09.774787): EE444 deleted from courses
+72.179.47.104 (2019-05-02 14:06:38.066624): Successfully logged out
+72.179.47.104 (2019-05-02 14:06:47.797254): User successfully logged in as welker
+72.179.47.104 (2019-05-02 14:09:07.433594): EE201 added to courses
+72.179.47.104 (2019-05-02 14:09:52.477597): EE301 added to courses
+72.179.47.104 (2019-05-02 14:10:07.411477): EE401 added to courses
+72.179.47.104 (2019-05-02 14:19:28.722860): EE999 added to courses
+72.179.47.104 (2019-05-02 14:20:09.537820): EE999 deleted from courses
+72.179.47.104 (2019-05-02 14:22:29.315799): Successfully logged out
+72.179.47.104 (2019-05-02 14:22:47.762718): User successfully logged in as welker
+72.179.47.104 (2019-05-02 14:55:46.150835): Successfully logged out
+72.179.47.104 (2019-05-02 14:55:52.963834): User successfully logged in as valles
+72.179.47.104 (2019-05-02 14:58:35.073454): EE202 added to courses
+72.179.47.104 (2019-05-02 14:59:01.459511): EE302 added to courses
+72.179.47.104 (2019-05-02 14:59:13.459051): EE402 added to courses
+72.179.47.104 (2019-05-02 15:01:53.530061): Successfully logged out
+72.179.47.104 (2019-05-02 15:01:59.990232): User successfully logged in as welker
+72.179.47.104 (2019-05-02 15:56:33.243423): Successfully logged out
+72.179.47.104 (2019-05-02 15:56:43.274529): User successfully logged in as kcm91
+72.179.47.104 (2019-05-02 15:57:36.705873): EE1001 added to courses
+72.179.47.104 (2019-05-02 15:57:48.930843): EE1002 added to courses
+72.179.47.104 (2019-05-02 16:00:22.915779): Successfully logged out
+72.179.47.104 (2019-05-02 16:00:30.029755): User successfully logged in as welker
+72.179.47.104 (2019-05-02 16:00:43.538624): Successfully logged out
+72.179.47.104 (2019-05-02 16:01:52.596592): User successfully logged in as welker
+72.179.47.104 (2019-05-02 16:02:18.089293): Successfully logged out
+72.179.47.104 (2019-05-02 16:02:26.600241): User successfully logged in as valles
+72.179.47.104 (2019-05-02 16:02:33.477109): Successfully logged out
+72.179.47.104 (2019-05-02 16:56:49.903931): User successfully logged in as hinkle
+72.179.47.104 (2019-05-02 16:59:11.398916): EE203 added to courses
+72.179.47.104 (2019-05-02 16:59:30.567432): EE303 added to courses
+72.179.47.104 (2019-05-02 16:59:38.283546): EE403 added to courses
+72.179.47.104 (2019-05-02 17:02:41.697682): Successfully logged out
+72.179.47.104 (2019-05-02 17:02:48.073253): User successfully logged in as hinkle
+72.179.47.104 (2019-05-02 17:06:12.442795): Successfully logged out
+72.179.47.104 (2019-05-02 17:06:21.977942): User successfully logged in as hinkle
+72.179.47.104 (2019-05-02 17:06:27.119647): Successfully logged out
+72.179.47.104 (2019-05-02 17:06:32.762868): User successfully logged in as valles
+72.179.47.104 (2019-05-02 17:07:07.945021): Successfully logged out
+72.179.47.104 (2019-05-02 17:07:14.093011): User successfully logged in as welker
+72.179.47.104 (2019-05-02 17:07:22.108300): Successfully logged out
+72.182.75.247 (2019-05-03 14:03:07.949057): User successfully logged in as welker
+72.182.75.247 (2019-05-03 14:06:27.627365): EE101 added to courses
+72.182.75.247 (2019-05-03 14:11:04.971234): assigned Allie W.  to Calculus II: 001
+72.182.75.247 (2019-05-03 14:11:04.979188): assigned Adam W. to Calculus II: L01
+72.182.75.247 (2019-05-03 14:11:04.995234): assigned Adam W. to Calculus II: L02
+72.182.75.247 (2019-05-03 14:11:22.152283): assigned Allie W.  to Calculus II: 001
+72.182.75.247 (2019-05-03 14:11:22.156176): assigned Adam W. to Calculus II: L01
+72.182.75.247 (2019-05-03 14:11:22.159465): assigned Adam W. to Calculus II: L02
+72.182.75.247 (2019-05-03 14:12:27.004687): assigned Allie W.  to Calculus II: 001
+72.182.75.247 (2019-05-03 14:12:27.019208): assigned Adam W. to Calculus II: L02
+72.182.75.247 (2019-05-03 14:12:27.024000): assigned Bob W. to Calculus II: 751
+72.182.75.247 (2019-05-03 14:12:27.025899): assigned Allie W.  to Calculus II: L51
+72.182.75.247 (2019-05-03 14:12:27.067902): assigned Adam W. to Calculus II: L01
+72.182.75.247 (2019-05-03 14:12:27.094981): assigned Danielle W. to Calculus II: 251
+72.182.75.247 (2019-05-03 14:12:27.098556): assigned Adam W. to Calculus II: L01
+72.182.75.247 (2019-05-03 14:12:27.111301): assigned Allie W.  to Calculus II: L02
+162.242.0.136 (2019-05-03 14:51:37.061412): Successfully logged out
+162.242.0.136 (2019-05-03 14:51:42.075958): User successfully logged in as welker
+147.26.251.150 (2019-05-03 17:58:46.436739): User successfully logged in as hinkle
+147.26.251.150 (2019-05-03 18:00:07.279683): EE103 added to courses
+147.26.251.150 (2019-05-03 18:07:38.506156): assigned Adam H. to Calculus II: 001
+147.26.251.150 (2019-05-03 18:07:38.514883): assigned Allie H.  to Calculus II: 751
+147.26.251.150 (2019-05-03 18:07:38.518508): assigned Bob H.  to Calculus II: L01
+147.26.251.150 (2019-05-03 18:07:38.520916): assigned Adam H. to Calculus II: L02
+147.26.251.150 (2019-05-03 18:07:38.525962): assigned Allie H.  to Calculus II: L51
+147.26.251.150 (2019-05-03 18:07:38.534142): assigned Allie H.  to Calculus II: L01
+147.26.251.150 (2019-05-03 18:07:38.539953): assigned Allie H.  to Calculus II: L02
+147.26.251.150 (2019-05-03 18:07:38.541989): assigned Danielle H. to Calculus II: 251
+147.26.251.150 (2019-05-03 18:23:08.678547): Successfully logged out
+147.26.87.165 (2019-05-03 20:50:22.599451): Successfully logged out
+147.26.87.165 (2019-05-03 20:50:29.073388): User successfully logged in as hinkle
+147.26.87.165 (2019-05-03 20:52:13.736119): Successfully logged out
+147.26.87.165 (2019-05-03 20:52:20.756535): User successfully logged in as welker
+147.26.87.165 (2019-05-03 20:53:25.416904): Successfully logged out
+147.26.87.165 (2019-05-03 20:53:32.386091): User successfully logged in as pqt3
+147.26.87.165 (2019-05-03 20:53:54.639223): assigned Michael Casey to Microprocessors: 001
+147.26.87.165 (2019-05-03 20:56:53.144884): Successfully logged out
+147.26.87.165 (2019-05-03 20:57:03.280861): User successfully logged in as kcm91
+147.26.87.165 (2019-05-03 20:57:30.151007): Successfully logged out
+147.26.87.165 (2019-05-03 20:57:34.842588): User successfully logged in as welker
+147.26.87.165 (2019-05-03 20:58:37.617807): assigned Danielle W. to Calculus 1: 001
+147.26.87.165 (2019-05-03 20:58:37.622316): assigned Bob W. to Calculus 1: L01
+147.26.87.165 (2019-05-03 21:01:50.357554): Successfully logged out
+147.26.87.165 (2019-05-03 21:02:00.121447): User successfully logged in as kcm91
+147.26.87.165 (2019-05-03 21:02:15.553749): Successfully logged out
+147.26.87.165 (2019-05-03 21:02:23.850105): User successfully logged in as kcm91
+147.26.87.165 (2019-05-03 21:02:50.714438): Successfully logged out
+147.26.87.165 (2019-05-03 21:02:59.860841): User successfully logged in as pqt3
+147.26.87.165 (2019-05-03 21:03:34.283439): Successfully logged out
+147.26.87.165 (2019-05-03 21:03:42.378910): User successfully logged in as welker
+147.26.87.165 (2019-05-03 21:04:02.323698): Successfully logged out
+147.26.87.165 (2019-05-03 21:04:06.773628): User successfully logged in as valles
+147.26.87.165 (2019-05-03 21:06:19.761668): Successfully logged out
+147.26.87.165 (2019-05-03 21:11:09.210493): User successfully logged in as pqt3
+147.26.87.6 (2019-05-03 21:14:17.730840): User successfully logged in as pqt3
+147.26.87.6 (2019-05-03 21:14:56.920111): Successfully logged out
+147.26.87.6 (2019-05-03 21:15:17.530540): User successfully logged in as hinkle
+147.26.87.6 (2019-05-03 21:52:32.229124): Successfully logged out
+72.179.37.232 (2019-05-04 14:37:08.873553): User successfully logged in as kcm91
+72.179.37.232 (2019-05-04 15:21:37.301050): Successfully logged out
+72.179.37.232 (2019-05-04 15:21:42.948298): User successfully logged in as pqt3
+72.179.37.232 (2019-05-04 16:00:13.282278): assigned Ravi Droopad to Circuits I: 001
+72.179.37.232 (2019-05-04 16:00:13.288242): assigned Rich Compeau to Circuits I: L01
+72.179.37.232 (2019-05-04 16:00:13.290462): assigned Lee Hinkle to Circuits I: 002
+72.179.37.232 (2019-05-04 16:00:13.293865): assigned Ravi Droopad to Circuits I: 251
+72.179.37.232 (2019-05-04 16:00:13.296134): assigned Ravi Droopad to Circuits I: L02
+72.179.37.232 (2019-05-05 19:42:07.073726): assigned Karl Stephan to Intro to VLSI Des: 001
+72.179.37.232 (2019-05-05 19:42:22.023885): assigned Ravi Droopad to Intro to VLSI Des: 001
+72.179.37.232 (2019-05-05 19:45:50.585406): Successfully logged out
+72.179.37.232 (2019-05-05 19:45:57.189674): User successfully logged in as pqt3
+72.179.37.232 (2019-05-05 19:52:00.729750): assigned choose instructor to Circuits I: 001
+72.179.37.232 (2019-05-05 19:52:00.769967): assigned Lee Hinkle to Circuits I: 002
+72.179.37.232 (2019-05-05 19:52:01.115917): assigned Rich Compeau to Circuits I: L01
+72.179.37.232 (2019-05-05 19:52:01.119512): assigned Ravi Droopad to Circuits I: L02
+72.179.37.232 (2019-05-05 19:52:01.781951): assigned Ravi Droopad to Circuits I: 251
+72.179.37.232 (2019-05-05 19:53:37.332437): assigned Harold Stern to Circuits I: 001
+72.179.37.232 (2019-05-05 19:53:37.458421): assigned Rich Compeau to Circuits I: L01
+72.179.37.232 (2019-05-05 19:53:37.543309): assigned Ravi Droopad to Circuits I: 251
+72.179.37.232 (2019-05-05 19:53:37.545453): assigned Lee Hinkle to Circuits I: 002
+72.179.37.232 (2019-05-05 19:53:37.555501): assigned Ravi Droopad to Circuits I: L02
+72.179.37.232 (2019-05-05 19:56:35.055958): assigned Michael Casey to Microprocessors: 001
+72.179.37.232 (2019-05-05 19:56:35.065568): assigned Khan Tarik to Microprocessors: 002
+72.179.37.232 (2019-05-05 20:08:29.957091): assigned choose instructor to Circuits I: 001
+72.179.37.232 (2019-05-05 20:08:29.960310): assigned Lee Hinkle to Circuits I: 002
+72.179.37.232 (2019-05-05 20:08:29.965123): assigned Rich Compeau to Circuits I: L01
+72.179.37.232 (2019-05-05 20:08:29.967642): assigned Ravi Droopad to Circuits I: 251
+72.179.37.232 (2019-05-05 20:08:29.973479): assigned Ravi Droopad to Circuits I: L02
+72.179.37.232 (2019-05-05 20:09:06.916056): assigned choose instructor to Circuits I: 001
+72.179.37.232 (2019-05-05 20:09:06.937065): assigned Ravi Droopad to Circuits I: 251
+72.179.37.232 (2019-05-05 20:09:06.939662): assigned choose instructor to Circuits I: L01
+72.179.37.232 (2019-05-05 20:09:06.942206): assigned choose instructor to Circuits I: 002
+72.179.37.232 (2019-05-05 20:09:06.948242): assigned choose instructor to Circuits I: L02
+72.179.37.232 (2019-05-05 20:09:55.784127): assigned choose instructor to Circuits I: 001
+72.179.37.232 (2019-05-05 20:09:55.799333): assigned choose instructor to Circuits I: 002
+72.179.37.232 (2019-05-05 20:09:55.802114): assigned choose instructor to Circuits I: L01
+72.179.37.232 (2019-05-05 20:09:55.804726): assigned choose instructor to Circuits I: 251
+72.179.37.232 (2019-05-05 20:09:55.807676): assigned choose instructor to Circuits I: L02
+72.179.37.232 (2019-05-05 20:10:15.538737): assigned William Stapleton to Circuits II: L01
+72.179.37.232 (2019-05-05 20:10:15.541448): assigned choose instructor to Circuits II: 001
+72.179.37.232 (2019-05-05 20:12:11.645317): assigned choose instructor to Intro to VLSI Des: 001
+72.179.37.232 (2019-05-05 20:12:38.360436): assigned Ravi Droopad to Intro to VLSI Des: 001
+72.179.37.232 (2019-05-05 20:12:48.177529): assigned Ravi Droopad to Intro to VLSI Des: L01
+72.179.37.232 (2019-05-05 20:12:48.206774): assigned Ravi Droopad to Intro to VLSI Des: 001
+72.179.37.232 (2019-05-05 20:12:59.672040): assigned Ravi Droopad to Intro to VLSI Des: 001
+72.179.37.232 (2019-05-05 20:12:59.674302): assigned Ravi Droopad to Intro to VLSI Des: L01
+72.179.37.232 (2019-05-05 20:12:59.686483): assigned Ravi Droopad to Intro to VLSI Des: L02
+72.179.37.232 (2019-05-05 20:15:40.486892): assigned choose instructor to Intro to VLSI Des: L02
+72.179.37.232 (2019-05-05 20:15:40.489521): assigned choose instructor to Intro to VLSI Des: 001
+72.179.37.232 (2019-05-05 20:15:40.495237): assigned choose instructor to Intro to VLSI Des: L01
+72.179.37.232 (2019-05-05 20:16:37.347258): assigned Ravi Droopad to Digital Logic: 001
+72.179.37.232 (2019-05-05 20:16:37.369365): assigned Ravi Droopad to Digital Logic: 002
+72.179.37.232 (2019-05-05 20:16:37.372777): assigned Ravi Droopad to Digital Logic: L01
+72.179.37.232 (2019-05-05 20:16:37.375280): assigned Ravi Droopad to Digital Logic: 251
+72.179.37.232 (2019-05-05 20:16:37.377904): assigned Ravi Droopad to Digital Logic: L02
+72.179.37.232 (2019-05-05 20:19:10.536277): assigned choose instructor to Circuits I: 001
+72.179.37.232 (2019-05-05 20:19:10.540453): assigned choose instructor to Circuits I: L01
+72.179.37.232 (2019-05-05 20:19:10.543943): assigned choose instructor to Circuits I: 002
+72.179.37.232 (2019-05-05 20:19:10.561617): assigned choose instructor to Circuits I: L02
+72.179.37.232 (2019-05-05 20:19:10.601798): assigned choose instructor to Circuits I: 252
+72.179.37.232 (2019-05-05 20:19:10.607933): assigned choose instructor to Circuits I: 251
+72.179.37.232 (2019-05-05 20:19:10.621320): assigned choose instructor to Circuits I: L01
+72.179.37.232 (2019-05-05 20:19:10.635316): assigned choose instructor to Circuits I: L02
+72.179.37.232 (2019-05-05 20:22:13.019862): assigned choose instructor to Circuits I: 001
+72.179.37.232 (2019-05-05 20:22:13.026619): assigned choose instructor to Circuits I: 002
+72.179.37.232 (2019-05-05 20:22:13.034292): assigned choose instructor to Circuits I: L01
+72.179.37.232 (2019-05-05 20:22:13.062044): assigned choose instructor to Circuits I: L02
+72.179.37.232 (2019-05-05 20:22:13.068871): assigned choose instructor to Circuits I: 501
+72.179.37.232 (2019-05-05 20:22:13.146332): assigned choose instructor to Circuits I: L01
+72.179.37.232 (2019-05-05 20:22:13.149815): assigned choose instructor to Circuits I: 251
+72.179.37.232 (2019-05-05 20:22:13.152119): assigned choose instructor to Circuits I: 252
+72.179.37.232 (2019-05-05 20:22:13.156841): assigned choose instructor to Circuits I: L01
+72.179.37.232 (2019-05-05 20:22:13.189866): assigned choose instructor to Circuits I: L02
+72.179.37.232 (2019-05-05 20:22:59.655378): assigned choose instructor to Circuits I: 002
+72.179.37.232 (2019-05-05 20:22:59.659017): assigned Michael Casey to Circuits I: 001
+72.179.37.232 (2019-05-05 20:22:59.693938): assigned choose instructor to Circuits I: L01
+72.179.37.232 (2019-05-05 20:22:59.714322): assigned choose instructor to Circuits I: 501
+72.179.37.232 (2019-05-05 20:22:59.717152): assigned choose instructor to Circuits I: L02
+72.179.37.232 (2019-05-05 20:22:59.721132): assigned choose instructor to Circuits I: 251
+72.179.37.232 (2019-05-05 20:22:59.723638): assigned choose instructor to Circuits I: L01
+72.179.37.232 (2019-05-05 20:22:59.726785): assigned choose instructor to Circuits I: 252
+72.179.37.232 (2019-05-05 20:22:59.812399): assigned choose instructor to Circuits I: L01
+72.179.37.232 (2019-05-05 20:22:59.844222): assigned choose instructor to Circuits I: L02
+72.179.37.232 (2019-05-05 20:23:07.388617): assigned choose instructor to Circuits I: 001
+72.179.37.232 (2019-05-05 20:23:07.393679): assigned choose instructor to Circuits I: 002
+72.179.37.232 (2019-05-05 20:23:07.414262): assigned choose instructor to Circuits I: L02
+72.179.37.232 (2019-05-05 20:23:07.417323): assigned choose instructor to Circuits I: L01
+72.179.37.232 (2019-05-05 20:23:07.463282): assigned choose instructor to Circuits I: L01
+72.179.37.232 (2019-05-05 20:23:07.478733): assigned choose instructor to Circuits I: 501
+72.179.37.232 (2019-05-05 20:23:07.504861): assigned choose instructor to Circuits I: 251
+72.179.37.232 (2019-05-05 20:23:07.508055): assigned choose instructor to Circuits I: 252
+72.179.37.232 (2019-05-05 20:23:07.518651): assigned choose instructor to Circuits I: L02
+72.179.37.232 (2019-05-05 20:23:07.521564): assigned choose instructor to Circuits I: L01
+72.179.37.232 (2019-05-05 20:28:38.457432): assigned Ravi Droopad to Digital Logic: 251
+72.179.37.232 (2019-05-05 20:34:42.104996): assigned Ravi Droopad to Digital Logic: 251
+72.179.37.232 (2019-05-05 20:35:25.683122): assigned Ravi Droopad to Digital Logic: 251
+72.179.37.232 (2019-05-05 20:41:03.731155): assigned Ravi Droopad to Digital Logic: L02
+72.179.37.232 (2019-05-05 20:41:03.734876): assigned Ravi Droopad to Digital Logic: L01
+72.179.37.232 (2019-05-05 20:41:03.740340): assigned Ravi Droopad to Digital Logic: 251
+72.179.37.232 (2019-05-05 20:42:42.155680): assigned choose instructor to Digital Logic: 001
+72.179.37.232 (2019-05-05 20:42:42.272571): assigned Ravi Droopad to Digital Logic: L01
+72.179.37.232 (2019-05-05 20:42:42.275613): assigned choose instructor to Digital Logic: 002
+72.179.37.232 (2019-05-05 20:42:42.278103): assigned Ravi Droopad to Digital Logic: 251
+72.179.37.232 (2019-05-05 20:42:42.413369): assigned Ravi Droopad to Digital Logic: L02
+72.179.37.232 (2019-05-05 20:43:30.613542): assigned choose instructor to Digital Logic: 001
+72.179.37.232 (2019-05-05 20:43:30.618643): assigned choose instructor to Digital Logic: 002
+72.179.37.232 (2019-05-05 20:43:30.621575): assigned Ravi Droopad to Digital Logic: L02
+72.179.37.232 (2019-05-05 20:43:30.628799): assigned Ravi Droopad to Digital Logic: L01
+72.179.37.232 (2019-05-05 20:43:30.631124): assigned Ravi Droopad to Digital Logic: 251
+72.179.37.232 (2019-05-05 20:44:55.574514): assigned choose instructor to Digital Logic: 001
+72.179.37.232 (2019-05-05 20:44:55.578262): assigned Ravi Droopad to Digital Logic: L02
+72.179.37.232 (2019-05-05 20:44:55.582069): assigned choose instructor to Digital Logic: L01
+72.179.37.232 (2019-05-05 20:44:55.627617): assigned choose instructor to Digital Logic: 002
+72.179.37.232 (2019-05-05 20:44:55.705791): assigned Ravi Droopad to Digital Logic: 251
+72.179.37.232 (2019-05-05 20:45:13.869388): assigned choose instructor to Digital Logic: 001
+72.179.37.232 (2019-05-05 20:45:13.882236): assigned choose instructor to Digital Logic: L01
+72.179.37.232 (2019-05-05 20:45:13.885866): assigned choose instructor to Digital Logic: L02
+72.179.37.232 (2019-05-05 20:45:13.891821): assigned choose instructor to Digital Logic: 002
+72.179.37.232 (2019-05-05 20:45:13.902521): assigned Ravi Droopad to Digital Logic: 251
+72.179.37.232 (2019-05-05 20:46:28.045826): assigned Michael Casey to Circuits I: 001
+72.179.37.232 (2019-05-05 20:46:28.088920): assigned choose instructor to Circuits I: 002
+72.179.37.232 (2019-05-05 20:46:28.145451): assigned choose instructor to Circuits I: L01
+72.179.37.232 (2019-05-05 20:46:28.149855): assigned choose instructor to Circuits I: L02
+72.179.37.232 (2019-05-05 20:46:28.153633): assigned choose instructor to Circuits I: L01
+72.179.37.232 (2019-05-05 20:46:28.155885): assigned choose instructor to Circuits I: 251
+72.179.37.232 (2019-05-05 20:46:28.157801): assigned choose instructor to Circuits I: 501
+72.179.37.232 (2019-05-05 20:46:28.174181): assigned choose instructor to Circuits I: 252
+72.179.37.232 (2019-05-05 20:46:28.235388): assigned choose instructor to Circuits I: L02
+72.179.37.232 (2019-05-05 20:46:28.240623): assigned choose instructor to Circuits I: L01
+72.179.37.232 (2019-05-05 20:46:35.617982): assigned choose instructor to Circuits I: 001
+72.179.37.232 (2019-05-05 20:46:35.621009): assigned choose instructor to Circuits I: L02
+72.179.37.232 (2019-05-05 20:46:35.685869): assigned choose instructor to Circuits I: L01
+72.179.37.232 (2019-05-05 20:46:35.689478): assigned choose instructor to Circuits I: 501
+72.179.37.232 (2019-05-05 20:46:35.691612): assigned choose instructor to Circuits I: 252
+72.179.37.232 (2019-05-05 20:46:35.697897): assigned choose instructor to Circuits I: 251
+72.179.37.232 (2019-05-05 20:46:35.704480): assigned choose instructor to Circuits I: 002
+72.179.37.232 (2019-05-05 20:46:35.707921): assigned choose instructor to Circuits I: L01
+72.179.37.232 (2019-05-05 20:46:35.749912): assigned choose instructor to Circuits I: L01
+72.179.37.232 (2019-05-05 20:46:35.752691): assigned choose instructor to Circuits I: L02
+72.179.37.232 (2019-05-05 20:46:53.232633): assigned choose instructor to Microprocessors: 001
+72.179.37.232 (2019-05-05 20:46:53.235605): assigned Khan Tarik to Microprocessors: 002
+72.179.37.232 (2019-05-05 20:47:07.306960): assigned choose instructor to Microprocessors: 002
+72.179.37.232 (2019-05-05 20:47:07.315630): assigned choose instructor to Microprocessors: 001
+72.179.37.232 (2019-05-05 20:47:44.155110): assigned choose instructor to Circuits I: 001
+72.179.37.232 (2019-05-05 20:47:44.158399): assigned choose instructor to Circuits I: 002
+72.179.37.232 (2019-05-05 20:47:44.466314): assigned choose instructor to Circuits I: L01
+72.179.37.232 (2019-05-05 20:47:44.469344): assigned choose instructor to Circuits I: L02
+72.179.37.232 (2019-05-05 20:47:44.548542): assigned choose instructor to Circuits I: 501
+72.179.37.232 (2019-05-05 20:47:44.553691): assigned choose instructor to Circuits I: L01
+72.179.37.232 (2019-05-05 20:47:44.555437): assigned choose instructor to Circuits I: L01
+72.179.37.232 (2019-05-05 20:47:44.561303): assigned choose instructor to Circuits I: 252
+72.179.37.232 (2019-05-05 20:47:44.737378): assigned choose instructor to Circuits I: 251
+72.179.37.232 (2019-05-05 20:47:44.740465): assigned choose instructor to Circuits I: L02
+72.179.37.232 (2019-05-05 20:48:00.246944): assigned choose instructor to Circuits I: 002
+72.179.37.232 (2019-05-05 20:48:00.251326): assigned choose instructor to Circuits I: 001
+72.179.37.232 (2019-05-05 20:48:00.257525): assigned choose instructor to Circuits I: L01
+72.179.37.232 (2019-05-05 20:48:00.364857): assigned choose instructor to Circuits I: L02
+72.179.37.232 (2019-05-05 20:48:00.368064): assigned choose instructor to Circuits I: 501
+72.179.37.232 (2019-05-05 20:48:00.420339): assigned choose instructor to Circuits I: L01
+72.179.37.232 (2019-05-05 20:48:00.422285): assigned choose instructor to Circuits I: 252
+72.179.37.232 (2019-05-05 20:48:00.424395): assigned choose instructor to Circuits I: 251
+72.179.37.232 (2019-05-05 20:48:00.624952): assigned choose instructor to Circuits I: L01
+72.179.37.232 (2019-05-05 20:48:00.640609): assigned choose instructor to Circuits I: L02
+72.179.37.232 (2019-05-05 20:55:49.137106): assigned choose instructor to Circuits I: 001
+72.179.37.232 (2019-05-05 20:55:49.139431): assigned choose instructor to Circuits I: L01
+72.179.37.232 (2019-05-05 20:55:49.143111): assigned choose instructor to Circuits I: 002
+72.179.37.232 (2019-05-05 20:55:49.145736): assigned choose instructor to Circuits I: L01
+72.179.37.232 (2019-05-05 20:55:49.148838): assigned choose instructor to Circuits I: 501
+72.179.37.232 (2019-05-05 20:55:49.151647): assigned choose instructor to Circuits I: L02
+72.179.37.232 (2019-05-05 20:55:49.500786): assigned choose instructor to Circuits I: L51
+72.179.37.232 (2019-05-05 20:55:49.504081): assigned choose instructor to Circuits I: 751
+72.179.37.232 (2019-05-05 20:55:49.592112): assigned choose instructor to Circuits I: 252
+72.179.37.232 (2019-05-05 20:55:49.594852): assigned choose instructor to Circuits I: L01
+72.179.37.232 (2019-05-05 20:55:49.599996): assigned choose instructor to Circuits I: L02
+72.179.37.232 (2019-05-05 20:55:49.610354): assigned choose instructor to Circuits I: 251
+72.179.37.232 (2019-05-05 20:56:21.395829): assigned choose instructor to Circuits II: 001
+72.179.37.232 (2019-05-05 20:56:21.572589): assigned William Stapleton to Circuits II: L01
+72.179.37.232 (2019-05-05 20:56:32.980144): assigned choose instructor to Microprocessors: 001
+72.179.37.232 (2019-05-05 20:56:33.004193): assigned choose instructor to Microprocessors: 002
+72.179.37.232 (2019-05-05 20:56:54.446570): assigned choose instructor to Intro to VLSI Des: L02
+72.179.37.232 (2019-05-05 20:56:54.450048): assigned choose instructor to Intro to VLSI Des: L01
+72.179.37.232 (2019-05-05 20:56:54.475416): assigned choose instructor to Intro to VLSI Des: 001
+72.179.37.232 (2019-05-05 20:59:37.261467): assigned choose instructor to Circuits I: 001
+72.179.37.232 (2019-05-05 20:59:37.416121): assigned choose instructor to Circuits I: L01
+72.179.37.232 (2019-05-05 20:59:37.431246): assigned choose instructor to Circuits I: 002
+72.179.37.232 (2019-05-05 20:59:37.435145): assigned choose instructor to Circuits I: L01
+72.179.37.232 (2019-05-05 20:59:37.437147): assigned choose instructor to Circuits I: 501
+72.179.37.232 (2019-05-05 20:59:37.439684): assigned choose instructor to Circuits I: L02
+72.179.37.232 (2019-05-05 20:59:37.516968): assigned choose instructor to Circuits I: 751
+72.179.37.232 (2019-05-05 20:59:37.551259): assigned choose instructor to Circuits I: L02
+72.179.37.232 (2019-05-05 20:59:37.559984): assigned choose instructor to Circuits I: L01
+72.179.37.232 (2019-05-05 20:59:37.630907): assigned choose instructor to Circuits I: L51
+72.179.37.232 (2019-05-05 20:59:37.642714): assigned choose instructor to Circuits I: 252
+72.179.37.232 (2019-05-05 20:59:37.653457): assigned choose instructor to Circuits I: 251
+72.179.37.232 (2019-05-05 21:01:23.184536): assigned choose instructor to Electronics I: 001
+72.179.37.232 (2019-05-05 21:06:34.831810): assigned William Stapleton to Circuits II: L01
+72.179.37.232 (2019-05-05 21:11:37.333524): assigned Michael Casey to Circuits I: 001
+72.179.37.232 (2019-05-05 21:12:22.212870): assigned Michael Casey to Circuits I: 001
+72.179.37.232 (2019-05-05 21:12:22.221718): assigned William Stapleton to Circuits I: 002
+72.179.37.232 (2019-05-05 21:15:46.305990): assigned William Stapleton to Circuits I: 002
+72.179.37.232 (2019-05-05 21:15:46.314195): assigned Harold Stern to Circuits I: 001
+72.179.37.232 (2019-05-05 21:17:16.196477): assigned Michael Casey to Circuits II: 001
+72.179.37.232 (2019-05-05 21:17:16.199316): assigned William Stapleton to Circuits II: L01
+72.179.37.232 (2019-05-05 21:17:24.242993): assigned Michael Casey to Circuits II: 001
+72.179.37.232 (2019-05-05 21:17:24.260223): assigned William Stapleton to Circuits II: L01
+72.179.37.232 (2019-05-05 21:17:33.190709): assigned Michael Casey to Microprocessors: 001
+72.179.37.232 (2019-05-05 21:18:49.863763): assigned William Stapleton to Circuits I: 002
+72.179.37.232 (2019-05-05 21:18:49.885304): assigned Michael Casey to Circuits I: 001
+72.179.37.232 (2019-05-05 21:19:31.785602): assigned Michael Casey to Electronics I: 001

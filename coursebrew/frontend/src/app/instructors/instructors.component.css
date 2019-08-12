@@ -1,0 +1,48 @@
+.container{
+  margin-top: 100px;
+}
+
+.top-padding{
+    margin-top: 10px;
+}
+
+.bottom-padding{
+    margin-bottom: 10px;
+}
+
+.school-year-header{
+    color: #7180ac;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.col-title{
+    color: #7180ac;
+    font-family: 'Work Sans', sans-serif;
+    text-decoration: underline;
+}
+
+.col-text{
+    color: #2b4570;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.col-text-instructor{
+    color: #2b4570;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.col-text-instructor a{
+    color:#2b4570;
+}
+
+.col-text-instructor:hover{
+    background-color: #a8d0db;
+    color: #ffffff;
+    border: 1px solid #2b4570;
+    cursor: pointer;
+}
+
+*:focus {
+    outline: 0;
+    outline: none;
+}

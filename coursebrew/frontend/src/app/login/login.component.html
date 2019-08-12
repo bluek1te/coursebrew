@@ -1,0 +1,32 @@
+<div class="container">
+    <div class="title-div">
+        <h3 class="title">coursebrew</h3>
+    </div>
+    
+    <div class="login-box rounded">
+        <div class="login-header">
+            <h5 class="login-title">hello again!</h5>
+            <p class="login-title">log in to start brewing</p>
+            <span><img class="center-block" src="/src/assets/img/course-brew.svg" width="75" height="75"></span>
+        </div>
+        
+        <div class="login-fields">
+            <form>
+                <div class="form-group">
+                    <label for="username">username</label>
+                    <input type="username" (keyup)="updateUsername($event)" class="form-control textbox-color col-lg-9" id="username">
+                </div>
+                    
+                <div class="form-group">
+                    <label for="password">password</label>
+                    <input type="password" (keyup)="updatePassword($event)" class="form-control textbox-color col-lg-9" id="password">
+                </div>
+            </form>
+                
+            <button (click)="submitLogin()" type="login" class="btn login-btn col-9">login</button>
+        </div>
+
+    </div>
+
+    
+</div>

@@ -1,0 +1,81 @@
+<div class="container">
+   <div class="row">
+      <div class="col-lg-3">
+         <div class="btn-group">
+            <button (click)="subYear()" type="button" class="btn-sm btn-default nav-button rounded">
+            <span><img src="/src/assets/img/left-arrow.svg" width="25" height="25"></span>
+            </button>
+            <h6 class="school-year-header rounded">{{yearString}}</h6>
+            <button (click)="checkYearAndAdd()" type="button" class="btn-sm btn-default nav-button rounded"  data-toggle="modal" data-target="#popUp">
+            <span><img src="/src/assets/img/right-arrow.svg" width="25" height="25"></span>
+            </button>
+            <div *ngIf="checkYear()" id="popUp" class="modal fade" role="dialog">
+               <div class="modal-dialog modal-dialog-centered">
+                  <div class="modal-content">
+                     <div class="wrapper">
+                        <div class="modal-body">
+                           <div class="row">
+                              <div class="col">
+                                 <button type="button" class="close" data-dismiss="modal">&times;</button>
+                              </div>
+                           </div>
+                           <div class="row">
+                              <div class="col">
+                                 <h6 class="modal-title">assignments don't exist for this year!</h6>
+                              </div>
+                           </div>
+                           <div class="row img-style">
+                              <div class="col">
+                                 <span ><img src="/src/assets/img/course-brew.svg" width="50" height="50"></span>
+                              </div>
+                           </div>
+                           <p class="col-text">would you like to use assignments<br> from the previous year?</p>
+                           <button (click)="addYearCopy()" class="yes-btn col-lg-2 rounded" data-dismiss="modal">yes</button>
+                           <button class="no-btn col-lg-2 rounded" data-dismiss="modal">no</button>
+                           <div style="min-height:30px;"></div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <input type="name" class="form-control textbox-color col-4"
+          id="searchCourse" (keyup)="updateCourse($event)" placeholder="search for a course">
+      <div class="col-lg-1">
+          <ng-template #trash>
+             <p class="trash">delete all assignments</p>
+         </ng-template>
+         <button (click)="deleteYear()" class="trash-btn rounded" [ngbTooltip]="trash" placement="right" tooltipClass="trash-tooltip" style="float:right">
+         <span><img src="/src/assets/img/garbage-2.svg" width="25" height="25">
+         </span>
+         </button>
+      </div>
+   </div>
+   <div class="row top-padding bottom-padding">
+   </div>
+
+     <div id="Panels" *ngFor="let course of filteredCourseList">
+      <p style="margin-top:5px; margin-bottom:5px">
+         <button class="btn course-btn rounded" type="button" data-toggle="collapse" [attr.data-target]="'#collapsethis'+course.course_id" aria-expanded="false" aria-controls="multiCollapseExample2" style="min-width:710px; text-align: left; margin-bottom:0px">{{course.name}}</button>
+      </p>
+      <div style="margin-top:0px; margin-bottom:0px" class="collapse multi-collapse" [attr.id]="'collapsethis'+course.course_id">
+         <button class="btn semester-btn" type="button" data-toggle="collapse" [attr.data-target]="'#collapsethis'+course.course_id+'fal'" aria-expanded="false" aria-controls="multiCollapseExample2" style="min-width:710px; text-align: left; margin-bottom:5px">fall</button>
+         <div class="collapse multi-collapse card card-body" [attr.id]="'collapsethis'+course.course_id+'fal'" style="max-width:710px; margin-bottom:5px">
+            <p *ngFor="let section of getCourseSections(course.name, 'Fal')" style="margin-bottom:4px; margin-top:2px"> {{section.section_number}} - {{section.instructor_name}}</p>
+         </div>
+         <button class="btn semester-btn" type="button" data-toggle="collapse" [attr.data-target]="'#collapsethis'+course.course_id+'spr'" aria-expanded="false" aria-controls="multiCollapseExample2" style="min-width:710px; text-align: left; margin-bottom:5px">spring</button>
+         <div class="collapse multi-collapse card card-body" [attr.id]="'collapsethis'+course.course_id+'spr'" style="max-width:710px; margin-bottom:5px">
+             <p *ngFor="let section of getCourseSections(course.name, 'Spr')" style="margin-bottom:4px; margin-top:2px"> {{section.section_number}} - {{section.instructor_name}}</p>
+         </div>
+         <button class="btn semester-btn" type="button" data-toggle="collapse" [attr.data-target]="'#collapsethis'+course.course_id+'sum1'" aria-expanded="false" aria-controls="multiCollapseExample2" style="min-width:710px; text-align: left; margin-bottom:5px">summer I</button>
+         <div class="collapse multi-collapse card card-body" [attr.id]="'collapsethis'+course.course_id+'sum1'" style="max-width:710px; margin-bottom:5px">
+             <p *ngFor="let section of getCourseSections(course.name, 'Sum1')" style="margin-bottom:4px; margin-top:2px"> {{section.section_number}} - {{section.instructor_name}}</p>
+         </div>
+         <button class="btn semester-btn" type="button" data-toggle="collapse" [attr.data-target]="'#collapsethis'+course.course_id+'sum2'" aria-expanded="false" aria-controls="multiCollapseExample2" style="min-width:710px; text-align: left; margin-bottom:5px">summer II</button>
+         <div class="collapse multi-collapse card card-body" [attr.id]="'collapsethis'+course.course_id+'sum2'" style="max-width:710px; margin-bottom:5px">
+             <p *ngFor="let section of getCourseSections(course.name, 'Sum2')" style="margin-bottom:4px; margin-top:2px"> {{section.section_number}} - {{section.instructor_name}}</p>
+         </div>
+      </div>
+   </div>
+</div>

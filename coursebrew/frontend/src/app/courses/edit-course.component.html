@@ -1,0 +1,121 @@
+<div class="container">
+    <h5 class="label">EDIT COURSE</h5>
+    
+    <form>
+        
+        <div class="form-group">
+            <label class="label" for="addCourseName">course name</label>
+            <div class="input-group mb-3 col-lg-5">
+                <input type="name" class="form-control textbox-color"
+                    id="addCourseName" (keyup)="updateName($event)"
+                    placeholder={{data.name}}>
+                <div class="input-group-append">
+                    <ng-template #trash>
+                        <p class="trash">delete course</p>
+                    </ng-template>
+                    <button (click)="deleteCourse()" class="trash-btn rounded" [ngbTooltip]="trash" placement="right" tooltipClass="trash-tooltip">
+                        <span><img src="/src/assets/img/garbage-2.svg" width="25" height="25"></span>
+                    </button>
+                </div>
+            </div>
+        </div>
+        
+        <div class="form-group">
+            <label class="label" for="addCourseID">course ID</label>
+            <div class="input-group mb-3 col-lg-5">
+                <div class="input-group-prepend">
+                    <select class="custom-select" id="prefix">
+                        <option selected>prefix</option>
+                        <option>EE</option>
+                        <option>IE</option>
+                        <option>ENGR</option>
+                        <option>MFGE</option>
+                    </select>
+                </div>
+                <input type="courseID" class="form-control textbox-color"
+                    id="addCourseID" (keyup)="updateCourseId($event)"
+                    placeholder={{data.course_id}}>
+                    </div>
+        </div>
+
+        <div class="form-group">
+            <label class="label" for="semestersOffered"># of sections per semester</label>
+            <div class="form-row">
+                <div class="form-group col-lg-1">
+                    <label for="spring" class="label-2">fall</label>
+                    <input type="fallSections" class="form-control textbox-color"
+                        (keyup)="updateFreqFal($event)" id="fall" placeholder={{data.freq_fal}} >
+                        </div>
+                <div class="form-group col-lg-1" style="margin-left:32px">
+                    <label for="fall" class="label-2">spring</label>
+                    <input type="springSections" class="form-control textbox-color" 
+			(keyup)="updateFreqSpr($event)" id="spring" placeholder={{data.freq_spr}}>
+                        </div>
+                <div class="form-group col-lg-1" style="margin-left:32px">
+                    <label for="summerI" class="label-2">summer I</label>
+                    <input type="summerISections" class="form-control textbox-color" (keyup)="updateFreqSum1($event)" id="summerI"
+			placeholder={{data.freq_sum1}}>
+                        </div>
+                <div class="form-group col-lg-1" style="margin-left:32px">
+                    <label for="summerII" class="label-2">summer II</label>
+                    <input type="summerIISections" class="form-control textbox-color" (keyup)="updateFreqSum2($event)" id="summerII"
+			placeholder={{data.freq_sum2}}>
+                        </div>
+            </div>
+        </div>
+        
+        <div class="form-group">
+            <label class="label" for="semestersOffered"># of lab sections per semester</label>
+            <div class="form-row">
+                <div class="form-group col-lg-1">
+                    <label for="spring" class="label-2">fall</label>
+                    <input type="fallSections" class="form-control textbox-color" (keyup)="updateFreqFal_l($event)" id="fall"
+			placeholder={{data.freq_fal_l}}>
+                        </div>
+                <div class="form-group col-lg-1" style="margin-left:32px">
+                    <label for="fall" class="label-2">spring</label>
+                    <input type="springSections" class="form-control textbox-color" (keyup)="updateFreqSpr_l($event)" id="spring"
+			placeholder={{data.freq_spr_l}}>
+                        </div>
+                <div class="form-group col-lg-1" style="margin-left:32px">
+                    <label for="summerI" class="label-2">summer I</label>
+                    <input type="summerISections" class="form-control textbox-color" (keyup)="updateFreqSum1_l($event)" id="summerI"
+			placeholder={{data.freq_sum1_l}}>
+                        </div>
+                <div class="form-group col-lg-1" style="margin-left:32px">
+                    <label for="summerII" class="label-2">summer II</label>
+                    <input type="summerIISections" class="form-control textbox-color" (keyup)="updateFreqSum2_l($event)" id="summerII"
+			placeholder={{data.freq_sum2_l}}>
+                        </div>
+            </div>
+        </div>
+        
+        <div class="form-group">
+            <label class="label" for="coordinator">coordinator</label>
+            <div class="input-group cold-lg-5 add-form">
+                <select class="custom-select col-lg-5 textbox-color"
+                    id="chooseCoordinator">
+                    <option selected>choose coordinator</option>
+                    <option>C. Rich Compeau</option>
+                    <option>Phillip Tran</option>
+                    <option>David Johnson</option>
+                </select>
+            </div>
+        </div>
+        
+        <button (click)="submitCourse()" type="edit" data-toggle="modal" data-target="#popUp" class="btn add-btn col-5">SAVE CHANGES</button>
+        
+        <div id="popUp" class="modal fade" role="dialog">
+            <div class="modal-dialog modal-dialog-centered modal-sm">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <span><img class="center-block" src="/src/assets/img/course-brew.svg" width="75" height="75"></span>
+                        <h6 class="modal-title">changes saved!</h6>
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </form>
+</div>

@@ -1,0 +1,124 @@
+<!--<div class="container">
+    <h5 class="school-year-header rounded">{{yearString}}</h5>
+    <div class="row">
+        <div class="column left rounded pre-scrollable">
+            <ul class="nav nav-tabs rounded" role="tablist">
+                <li><a href="#instructors" role="tab" data-toggle="tab">instructors</a></li>
+                <li><a class="active" href="#courses" role="tab" data-toggle="tab">courses</a></li>
+                <li><a href="#warnings" role="tab" data-toggle="tab">warnings</a></li>
+            </ul>
+            <div class="tab-content">
+                <div class="tab-pane" id="instructors">
+                    <div class="row top-padding bottom-padding">
+                        <div class="col-lg-3 col-title left-padding">name</div>
+                        <div class="col-lg-2 col-title">fall workload</div>
+                        <div class="col-lg-3 col-title">spring workload</div>
+                    </div>
+                    <div class="row top-padding bottom-padding" *ngFor="let instructor of instructorsList">
+                        <ng-template #assignments>
+                            <span *ngFor="let section of getInstructorSections(instructor.net_id)">
+                                {{section}}<br>
+                            </span>
+                        </ng-template>
+                        
+                        <div class="col-lg-3 col-text-status left-padding rounded"
+                            [ngbTooltip]="assignments" placement="bottom-left">{{instructor.name}}
+                        </div>
+                        
+                        <div class="col-lg-2 col-text"> {{instructor.current_wl_credits_fal}}/{{instructor.wl_credits}}
+                        </div>
+                        
+                        <div class="col-lg-3 col-text">
+                            {{instructor.current_wl_credits_spr}}/{{instructor.wl_credits}}
+                        </div>
+                    </div>
+                    <div style="min-height:150px"></div>
+                </div>
+                <div class="tab-pane active" id="courses">
+                    <div class="row top-padding bottom-padding">
+                        <div class="col-lg-4 left-padding col-title">name</div>
+                        <div class="col-lg-7 col-title">sections assigned</div>
+                    </div>
+                    <div class="row top-padding bottom-padding" *ngFor="let course of courseList">
+                        <div class="col-lg-4 col-text-status left-padding rounded"><a routerLink="{{course.course_id}}">{{course.name}}</a></div>
+                        <div class="col-lg-7 col-text">{{course.current_assign}}/{{course.max_assign}}</div>
+                    </div>
+                </div>
+                <div class="tab-pane" id="warnings">
+                    <div class="top-padding bottom-padding" id="Panels">
+                        <p style="margin-top:5px; margin-bottom:5px">
+                        <button class="btn course-btn rounded col-lg-12" type="button" data-toggle="collapse" data-target="#fall" aria-expanded="false" aria-controls="multiCollapseExample2" style="text-align: left; margin-bottom:0px">fall</button>
+                        </p>
+                        <div class="collapse multi-collapse card card-body col-lg-12" id="fall">
+                            <div *ngFor="let warning of warningsList">
+                                <div *ngIf="searchWarnings(warning, 'fall')" style="color:black;">
+                                    <div class="row warning-padding">
+                                        <div class="col-lg-1">
+                                            <div [ngClass]="{'status-green': warning.status == 0, 'status-yellow': warning.status == 1, 'status-orange': warning.status == 2, 'status-red': warning.status == 3}"></div>
+                                        </div>
+                                        <div class="col-lg-11 warning-text">{{warning.message}} {{warning.status}}</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <p style="margin-top:5px; margin-bottom:5px">
+                        <button class="btn course-btn rounded col-lg-12" type="button" data-toggle="collapse" data-target="#spring" aria-expanded="false" aria-controls="multiCollapseExample2" style="text-align: left; margin-bottom:0px">spring</button>
+                        </p>
+                        <div class="collapse multi-collapse card card-body col-lg-12" id="spring">
+                            <div *ngFor="let warning of warningsList">
+                                <div *ngIf="searchWarnings(warning, 'spring')" style="color:black;">
+                                    <div class="row warning-padding">
+                                        <div class="col-lg-1">
+                                            <div [ngClass]="{'status-green': warning.status == 0, 'status-yellow': warning.status == 1, 'status-orange': warning.status == 2, 'status-red': warning.status == 3}"></div>
+                                        </div>
+                                        <div class="col-lg-11 warning-text">{{warning.message}} {{warning.status}}</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                      
+                        <p style="margin-top:5px; margin-bottom:5px">
+                        <button class="btn course-btn rounded col-lg-12" type="button" data-toggle="collapse" data-target="#summer" aria-expanded="false" aria-controls="multiCollapseExample2" style="text-align: left; margin-bottom:0px">summer</button>
+                        </p>
+                        <div class="collapse multi-collapse card card-body col-lg-12" id="summer">
+                            <div *ngFor="let warning of warningsList">
+                                <div *ngIf="searchWarnings(warning, 'summer')" style="color:black;">
+                                    <div class="row warning-padding">
+                                        <div class="col-lg-1">
+                                            <div [ngClass]="{'status-green': warning.status == 0, 'status-yellow': warning.status == 1, 'status-orange': warning.status == 2, 'status-red': warning.status == 3}"></div>
+                                        </div>
+                                        <div class="col-lg-11 warning-text">{{warning.message}} {{warning.status}}</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>-->
+
+<div class="container">
+    <h5 class="school-year-header rounded">{{yearString}}</h5>
+    
+    <div class="row top-padding bottom-padding">
+        <div class="col-lg-3 col-title">course name</div>
+        <div class="col-lg-2 col-title">course ID</div>
+        <div class="col-lg-5 col-title">sections assigned</div>
+    </div>
+    
+    <div class="row top-padding bottom-padding" *ngFor="let course of courseList">
+        <div class="col-lg-3 rounded col-text-name" routerLink="{{course.course_id}}">
+            {{course.name}}
+        </div>
+        <div class="col-lg-2 col-text">{{course.course_id}}</div>
+        <div class="col-lg-5 col-text">
+            {{course.current_assign}}/{{course.max_assign}}
+        </div>
+    </div>
+</div>
+
+
+
